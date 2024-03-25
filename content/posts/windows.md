@@ -14,3 +14,5 @@ Recently, my organization has made the decision for me to move away from a works
 I've had the misfortune to be somewhat of a beta tester in this regard, and I've had intermittent success at reaching internal applications. The only solution that seems to be working at this point is to upgrade from Windows 10 to Windows 11, so that a WSL setting is supported which allows network pass-through from the host OS to the virtual OS.
 
 The upgrade took over two hours on a gigabyte connection and new computer hardware. This is surely not the last you'll hear of my windows gripes, dear reader.
+
+Update: the OS upgrade did not address the issue. So, that's great.
