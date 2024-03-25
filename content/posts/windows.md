@@ -9,7 +9,7 @@ tags= ["windows"]
 Why are you the way you are?
 <!--more-->
 
-Recently, my organization has made the decision for me to move away from a workstation that is Linux based, and instead to standardize to a windows workstation. This comes with many questions, not the least of which is networking. Our organization uses a VPN which users use to connect to internal applications.
+Recently, my organization has made the decision for me to move away from a linux workstation to a windows workstation. This comes with many questions, not the least of which is networking. Our organization uses a VPN which users use to connect to internal applications.
 
 I've had the misfortune to be somewhat of a beta tester in this regard, and I've had intermittent success at reaching internal applications. The only solution that seems to be working at this point is to upgrade from Windows 10 to Windows 11, so that a WSL setting is supported which allows network pass-through from the host OS to the virtual OS.
 
