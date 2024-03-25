@@ -7,7 +7,7 @@ defaultContentLanguage: en
 permalinks:
   posts: /posts/:title/
 
-paginate: 3
+paginate: 10
 
 # googleAnalytics: your-google-analytics-id
 # disqusShortname: your-disqus-shortname
@@ -31,7 +31,6 @@ markup:
 social:
   # e.g.
   github: "https://github.com/virtualbeck"
-  # twitter: your-twitter-link
   # stackoverflow: your-stackoverflow-link
   # youtube: "https://www.youtube.com/virtualbeck" #doesn't work
 
@@ -39,11 +38,6 @@ social:
 params:
   # Site Author
   author: virtualbeck
-  # Author biography
-  # bio: Site Reliability Engineer
-  # Site Description, used in HTML meat
-  description: blog
-
 
   ###########################################
   # Optional Configuration
