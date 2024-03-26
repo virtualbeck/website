@@ -9,7 +9,7 @@ tags= ["pushups"]
 Turning 40 seems to be the real deal as far as feeling like you're old.<!--more--> Recently turning 40, I thought perhaps I could do some pushups to get back into something resembling "in shape". Consequently, I've been told that round is a shape.
 
 Anyway, that instinct to do pushups was quickly replaced by the cold hard reality that is known as pyhsics. Years of cultivating mass has acted against me in this regard, and I had to resign myself to a measly 14 pushups. This was first thing in the morning. As I arm-shakingly completed the 14th on my bathroom floor, I thought "No problem. I'll just do a decendening amount throughout the day until I hit 50."
-
+```
  14
  12
  10
@@ -17,7 +17,7 @@ Anyway, that instinct to do pushups was quickly replaced by the cold hard realit
   6
 +--
  50
-
+```
 Easy, right? WRONG.
 
 The second wave was going well, until I thought about how many I had done before my arms started shaking. 3. Three. THREE pushups before my arms shook. I squeaked out 12 total, and thanked the stars that the wave was complete.
