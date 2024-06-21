@@ -6,8 +6,15 @@
     <description>Recent content in Tags on virtualbeck&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Traefik</title>
+      <link>https://blog.virtualbeck.com/tags/traefik/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/tags/traefik/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Pushups</title>
       <link>https://blog.virtualbeck.com/tags/pushups/</link>
