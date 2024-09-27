@@ -15,6 +15,6 @@ else
   exit 0
 fi
 
-scp -r public/ /home/linux/virtualbeck_blog/
+scp -r public/ /home/linux/docker-data/virtualbeck_blog/
 
 cd ~/docker-data/traefik && docker-compose restart virtualbeck_nginx
