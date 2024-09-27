@@ -7,7 +7,6 @@ tags= ["windows"]
 +++
 
 Why are you the way you are?
-<!--more-->
 
 Recently, my organization has made the decision for me to move away from a linux workstation to a windows workstation. This comes with many questions, not the least of which is networking. Our organization uses a VPN which users use to connect to internal applications.
 

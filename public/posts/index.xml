@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on virtualbeck&#39;s blog</title>
     <link>https://blog.virtualbeck.com/posts/</link>
     <description>Recent content in Posts on virtualbeck&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <title>virtualbeck&#39;s blog</title>
+      <url>https://blog.virtualbeck.com/static/mike.png</url>
+      <link>https://blog.virtualbeck.com/static/mike.png</link>
+    </image>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>traefik notes</title>
-      <link>https://blog.virtualbeck.com/posts/traefik-notes/</link>
+      <link>https://blog.virtualbeck.com/posts/traefik/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.virtualbeck.com/posts/traefik-notes/</guid>
+      <guid>https://blog.virtualbeck.com/posts/traefik/</guid>
       <description>&lt;p&gt;Maybe this will help you!&lt;/p&gt;</description>
     </item>
     <item>
@@ -20,27 +25,30 @@
       <link>https://blog.virtualbeck.com/posts/pushups/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/pushups/</guid>
-      <description>&lt;p&gt;Turning 40 seems to be the real deal as far as feeling like you&amp;rsquo;re old.&lt;/p&gt;</description>
+      <description>So, I recently hit the big 4-0, and let me tell you, it feels like the universe decided to slap me with a big “Welcome to Old Age!” sticker. In an attempt to shake off the cobwebs, I thought, “Why not do some pushups and get back in shape?” Of course, I was promptly reminded that “round” is indeed a shape.
+That burst of motivation quickly met the cold, hard truth of physics.</description>
     </item>
     <item>
       <title>windows</title>
       <link>https://blog.virtualbeck.com/posts/windows/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/windows/</guid>
-      <description>&lt;p&gt;Why are you the way you are?&lt;/p&gt;</description>
+      <description>Why are you the way you are?
+Recently, my organization has made the decision for me to move away from a linux workstation to a windows workstation. This comes with many questions, not the least of which is networking. Our organization uses a VPN which users use to connect to internal applications.
+I&amp;rsquo;ve had the misfortune to be somewhat of a beta tester in this regard, and I&amp;rsquo;ve had intermittent success at reaching internal applications.</description>
     </item>
     <item>
       <title>Bash plus Slack</title>
-      <link>https://blog.virtualbeck.com/posts/bash-plus-slack/</link>
+      <link>https://blog.virtualbeck.com/posts/slack-and-bash/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://blog.virtualbeck.com/posts/bash-plus-slack/</guid>
+      <guid>https://blog.virtualbeck.com/posts/slack-and-bash/</guid>
       <description>&lt;p&gt;Let’s write a script to take and upload pictures&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plex running in docker</title>
-      <link>https://blog.virtualbeck.com/posts/plex-running-in-docker/</link>
+      <link>https://blog.virtualbeck.com/posts/plex-in-docker/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://blog.virtualbeck.com/posts/plex-running-in-docker/</guid>
+      <guid>https://blog.virtualbeck.com/posts/plex-in-docker/</guid>
       <description>&lt;p&gt;Let’s write a script to run Plex in docker&lt;/p&gt;</description>
     </item>
   </channel>

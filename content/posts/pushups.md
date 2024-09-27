@@ -6,9 +6,10 @@ draft= "false"
 tags= ["pushups"]
 +++
 
-Turning 40 seems to be the real deal as far as feeling like you're old.<!--more--> Recently turning 40, I thought perhaps I could do some pushups to get back into something resembling "in shape". Consequently, I've been told that round is a shape.
+So, I recently hit the big 4-0, and let me tell you, it feels like the universe decided to slap me with a big “Welcome to Old Age!” sticker. In an attempt to shake off the cobwebs, I thought, “Why not do some pushups and get back in shape?” Of course, I was promptly reminded that “round” is indeed a shape.
 
-Anyway, that instinct to do pushups was quickly replaced by the cold hard reality that is known as physics. Years of cultivating mass has acted against me in this regard, and I had to resign myself to a measly 14 pushups. This was first thing in the morning. As I arm-shakingly completed the 14th on my bathroom floor, I thought "No problem. I'll just do a descending amount throughout the day until I hit 50."
+That burst of motivation quickly met the cold, hard truth of physics. After years of cultivating my “mass,” I had to face the music—14 pushups was all I could muster. And this was before my morning coffee! As I grunted through the final rep on my bathroom floor, I thought, “No biggie. I’ll just do fewer reps throughout the day until I hit 50.”
+
 ```
  14
  12
@@ -20,13 +21,13 @@ Anyway, that instinct to do pushups was quickly replaced by the cold hard realit
 ```
 Easy, right? WRONG.
 
-The second wave was going well, until I thought about how many I had done before my arms started shaking. 3. Three. THREE pushups before my arms shook. I squeaked out 12 total, and thanked the stars that the wave was complete.
+The second round started strong until I remembered how many I struggled to complete before my arms began to quiver. I managed just 3 before the shakes kicked in. In total, I barely squeezed out 12. Thank goodness that round was over!
 
-Third wave was torture. Finished, but barely. Didn't even try 4th and 5th wave. So here I sit now, 2 days later typing to you. My pecs feel used up, as does my desire to push up more reps. 
+The third wave? Pure agony. I finished, but only just. By the time the fourth and fifth waves rolled around, I waved the white flag. Here I am, two days later, typing this with pecs that feel like they’ve gone through a meat grinder—and my motivation to do more pushups? Well, it’s feeling pretty spent, too.
 
-The question "Why?" may occur to you, as I did me on Sunday. To that, I'd counter, "Why not?" I'm not 80, and would like to get back in the workout slipstream. When I did track & field as a high schooler, pushups were the main thing we did (other than running). Seems to do the job well. When I was 26, I did P90x. Again, pushups were front and center. Noting my current pain in many different muscle groups highlights how broadly pushups can work your body.
+You might be wondering, “Why put myself through this?” To that, I say, “Why not?” I’m not 80 yet, and I’d love to slip back into the workout groove. Back in my high school days of track and field, pushups were a staple (besides running, of course). And let’s not forget P90X at 26—pushups were the name of the game there, too. The aches in various muscle groups now remind me just how effectively pushups work your entire body.
 
-I'll for sure continue. Perhaps I'll even post my updates here. Might be a way to keep me true.
+I’m committed to continuing this journey. Who knows, I might even share my progress updates here to keep myself accountable. Here’s to reclaiming fitness, one shaky pushup at a time!
 
 - Mar 24, 2024: 30
 - May 31, 2024: 38

@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pushups on virtualbeck&#39;s blog</title>
     <link>https://blog.virtualbeck.com/tags/pushups/</link>
     <description>Recent content in Pushups on virtualbeck&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <title>virtualbeck&#39;s blog</title>
+      <url>https://blog.virtualbeck.com/static/mike.png</url>
+      <link>https://blog.virtualbeck.com/static/mike.png</link>
+    </image>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/pushups/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,8 @@
       <link>https://blog.virtualbeck.com/posts/pushups/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/pushups/</guid>
-      <description>&lt;p&gt;Turning 40 seems to be the real deal as far as feeling like you&amp;rsquo;re old.&lt;/p&gt;</description>
+      <description>So, I recently hit the big 4-0, and let me tell you, it feels like the universe decided to slap me with a big “Welcome to Old Age!” sticker. In an attempt to shake off the cobwebs, I thought, “Why not do some pushups and get back in shape?” Of course, I was promptly reminded that “round” is indeed a shape.
+That burst of motivation quickly met the cold, hard truth of physics.</description>
     </item>
   </channel>
 </rss>

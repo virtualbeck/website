@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Windows on virtualbeck&#39;s blog</title>
     <link>https://blog.virtualbeck.com/tags/windows/</link>
     <description>Recent content in Windows on virtualbeck&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <title>virtualbeck&#39;s blog</title>
+      <url>https://blog.virtualbeck.com/static/mike.png</url>
+      <link>https://blog.virtualbeck.com/static/mike.png</link>
+    </image>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,9 @@
       <link>https://blog.virtualbeck.com/posts/windows/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/windows/</guid>
-      <description>&lt;p&gt;Why are you the way you are?&lt;/p&gt;</description>
+      <description>Why are you the way you are?
+Recently, my organization has made the decision for me to move away from a linux workstation to a windows workstation. This comes with many questions, not the least of which is networking. Our organization uses a VPN which users use to connect to internal applications.
+I&amp;rsquo;ve had the misfortune to be somewhat of a beta tester in this regard, and I&amp;rsquo;ve had intermittent success at reaching internal applications.</description>
     </item>
   </channel>
 </rss>
