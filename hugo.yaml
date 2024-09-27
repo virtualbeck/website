@@ -41,11 +41,11 @@ params:
   hideSummary: true
   showtoc: false
   tocopen: false
-  images: ["static/mike.png"]
+  images: ["static/mike.webp"]
 
   label:
     text: "Virtualbeck's Blog"
-    icon: /mike.png
+    icon: /mike.webp
     iconHeight: 34
 
   # home-info mode
