@@ -17,4 +17,4 @@ fi
 
 scp -r public/ /home/linux/virtualbeck_blog/
 
-cd ~/traefik && docker-compose restart virtualbeck_nginx
+cd ~/docker-data/traefik && docker-compose restart virtualbeck_nginx

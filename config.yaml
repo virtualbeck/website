@@ -31,8 +31,8 @@ markup:
 social:
   # e.g.
   github: "https://github.com/virtualbeck"
-  # stackoverflow: your-stackoverflow-link
-  # youtube: "https://www.youtube.com/virtualbeck" #doesn't work
+  stackoverflow: "https://stackoverflow.com/users/6731150/mike-beck"
+  #youtube: "https://www.youtube.com/virtualbeck"
 
 # Site parameters
 params:
@@ -44,7 +44,7 @@ params:
   ###########################################
 
   # To enable RSS, you could set `enableRSS: true`, default is `true`
-  enableRSS: false
+  enableRSS: true
   # To enable comments, you may need to set `disqusShortname`
   enableComments: true
   # To enable comments, you may need to set `googleAnalytics`
