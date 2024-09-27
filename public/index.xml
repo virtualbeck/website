@@ -29,13 +29,6 @@
 That burst of motivation quickly met the cold, hard truth of physics.</description>
     </item>
     <item>
-      <title>About</title>
-      <link>https://blog.virtualbeck.com/about/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.virtualbeck.com/about/</guid>
-      <description>Hello, and welcome to the site. I originally made this site to teach myself about static web hosting using github. It’s a great excuse to serve as my blog as well. It is my intent to fill this with my interests over time.</description>
-    </item>
-    <item>
       <title>windows</title>
       <link>https://blog.virtualbeck.com/posts/windows/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
@@ -57,6 +50,13 @@ I&amp;rsquo;ve had the misfortune to be somewhat of a beta tester in this regard
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/plex-in-docker/</guid>
       <description>&lt;p&gt;Let’s write a script to run Plex in docker&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://blog.virtualbeck.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/about/</guid>
+      <description>about</description>
     </item>
   </channel>
 </rss>

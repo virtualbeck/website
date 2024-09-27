@@ -23,9 +23,6 @@
     <loc>https://blog.virtualbeck.com/tags/pushups/</loc>
     <lastmod>2024-03-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.virtualbeck.com/about/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.virtualbeck.com/posts/windows/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
@@ -46,6 +43,8 @@
   </url><url>
     <loc>https://blog.virtualbeck.com/posts/plex-in-docker/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/about/</loc>
   </url><url>
     <loc>https://blog.virtualbeck.com/archives/</loc>
   </url><url>
