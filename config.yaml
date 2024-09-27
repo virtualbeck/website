@@ -29,7 +29,6 @@ markup:
 
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
-  # e.g.
   github: "https://github.com/virtualbeck"
   stackoverflow: "https://stackoverflow.com/users/6731150/mike-beck"
   youtube: "https://www.youtube.com/virtualbeck"
@@ -46,9 +45,9 @@ params:
   # To enable RSS, you could set `enableRSS: true`, default is `true`
   enableRSS: true
   # To enable comments, you may need to set `disqusShortname`
-  enableComments: true
+  enableComments: false
   # To enable comments, you may need to set `googleAnalytics`
-  #enableGoogleAnalytics: true
+  enableGoogleAnalytics: true
   # To enable table of content, you could set `showToc: true`, default is `false`
   showToc: true
   # To hidden powerBy message in the page footer, you could set: `showPowerBy: false`, default is `true`
