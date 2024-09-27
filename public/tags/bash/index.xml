@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bash on virtualbeck&#39;s blog</title>
+    <title>Bash on Virtualbeck&#39;s Blog</title>
     <link>https://blog.virtualbeck.com/tags/bash/</link>
-    <description>Recent content in Bash on virtualbeck&#39;s blog</description>
+    <description>Recent content in Bash on Virtualbeck&#39;s Blog</description>
     <image>
-      <title>virtualbeck&#39;s blog</title>
+      <title>Virtualbeck&#39;s Blog</title>
       <url>https://blog.virtualbeck.com/static/mike.png</url>
       <link>https://blog.virtualbeck.com/static/mike.png</link>
     </image>
