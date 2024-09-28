@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movies</title>
+      <link>https://blog.virtualbeck.com/tags/movies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/tags/movies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Wild Robot</title>
+      <link>https://blog.virtualbeck.com/tags/the-wild-robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/tags/the-wild-robot/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Traefik</title>
       <link>https://blog.virtualbeck.com/tags/traefik/</link>

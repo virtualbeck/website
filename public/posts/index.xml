@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>movies</title>
+      <link>https://blog.virtualbeck.com/posts/movies/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/movies/</guid>
+      <description>Are movies worth it?</description>
+    </item>
     <item>
       <title>traefik notes</title>
       <link>https://blog.virtualbeck.com/posts/traefik/</link>
