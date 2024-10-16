@@ -31,3 +31,4 @@ Height: 5'10"
 Weight: 171.7
 BMI: 24.6
 ```
+Oct 16th update: I'm doing great. Today I'm at 177.9, which is almost 14 lbs down. I've got 8 days to drop about 6 more pounds. Not excited about that. The amount of food I'm taking in is waaaay less that before. If anything this competition has brought to attention the portion sizes I take on when it is not in the forefront of my mind. That and water intake. Always have water close by to curb the hunger. A lot of times when I'm feeling hungry, I think it just amounts to being thirsty and my mind is not able to distunguish between the two. I'll post an update at the end.
