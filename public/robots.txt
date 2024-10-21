@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://blog.virtualbeck.com/sitemap.xml

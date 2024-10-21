@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>cooling on Virtualbeck&#39;s Blog</title>
+    <title>Cooling on Virtualbeck&#39;s Blog</title>
     <link>https://blog.virtualbeck.com/tags/cooling/</link>
-    <description>Recent content in cooling on Virtualbeck&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Cooling on Virtualbeck&#39;s Blog</description>
+    <image>
+      <title>Virtualbeck&#39;s Blog</title>
+      <url>https://blog.virtualbeck.com/static/mike.webp</url>
+      <link>https://blog.virtualbeck.com/static/mike.webp</link>
+    </image>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/cooling/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +18,7 @@
       <link>https://blog.virtualbeck.com/posts/heat-battery/</link>
       <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/heat-battery/</guid>
-      <description>This time of year it is cool in the mornings and warm in the afternoon. For example, today we are slated to have a high of 80F, and it was 39F this morning. Pretty high temp swing. To leverage this, I&amp;rsquo;ve started pulling in cool air in the mornings. So much so that the kids complain about the cold.
-What do you need? A box fan. That&amp;rsquo;s it.
-Why not just turn on the AC?</description>
+      <description>Active whole house cooling with just a box fan</description>
     </item>
   </channel>
 </rss>

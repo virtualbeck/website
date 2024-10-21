@@ -1,122 +1,127 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Virtualbeck&#39;s Blog</title>
     <link>https://blog.virtualbeck.com/tags/</link>
     <description>Recent content in Tags on Virtualbeck&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <image>
+      <title>Virtualbeck&#39;s Blog</title>
+      <url>https://blog.virtualbeck.com/static/mike.webp</url>
+      <link>https://blog.virtualbeck.com/static/mike.webp</link>
+    </image>
+    <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>box fan</title>
+      <title>Box Fan</title>
       <link>https://blog.virtualbeck.com/tags/box-fan/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/box-fan/</guid>
       <description></description>
     </item>
     <item>
-      <title>cooling</title>
+      <title>Cooling</title>
       <link>https://blog.virtualbeck.com/tags/cooling/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/cooling/</guid>
       <description></description>
     </item>
     <item>
-      <title>efficient</title>
+      <title>Efficient</title>
       <link>https://blog.virtualbeck.com/tags/efficient/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/efficient/</guid>
       <description></description>
     </item>
     <item>
-      <title>heat</title>
+      <title>Heat</title>
       <link>https://blog.virtualbeck.com/tags/heat/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/heat/</guid>
       <description></description>
     </item>
     <item>
-      <title>whole house</title>
+      <title>Whole House</title>
       <link>https://blog.virtualbeck.com/tags/whole-house/</link>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/whole-house/</guid>
       <description></description>
     </item>
     <item>
-      <title>dollywood</title>
+      <title>Dollywood</title>
       <link>https://blog.virtualbeck.com/tags/dollywood/</link>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/dollywood/</guid>
       <description></description>
     </item>
     <item>
       <title>BMI</title>
       <link>https://blog.virtualbeck.com/tags/bmi/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/bmi/</guid>
       <description></description>
     </item>
     <item>
-      <title>weight-loss</title>
+      <title>Weight-Loss</title>
       <link>https://blog.virtualbeck.com/tags/weight-loss/</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/weight-loss/</guid>
       <description></description>
     </item>
     <item>
-      <title>movies</title>
+      <title>Movies</title>
       <link>https://blog.virtualbeck.com/tags/movies/</link>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/movies/</guid>
       <description></description>
     </item>
     <item>
-      <title>the wild robot</title>
+      <title>The Wild Robot</title>
       <link>https://blog.virtualbeck.com/tags/the-wild-robot/</link>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/the-wild-robot/</guid>
       <description></description>
     </item>
     <item>
-      <title>traefik</title>
+      <title>Traefik</title>
       <link>https://blog.virtualbeck.com/tags/traefik/</link>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/traefik/</guid>
       <description></description>
     </item>
     <item>
-      <title>pushups</title>
+      <title>Pushups</title>
       <link>https://blog.virtualbeck.com/tags/pushups/</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/pushups/</guid>
       <description></description>
     </item>
     <item>
-      <title>windows</title>
+      <title>Windows</title>
       <link>https://blog.virtualbeck.com/tags/windows/</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/windows/</guid>
       <description></description>
     </item>
     <item>
-      <title>bash</title>
+      <title>Bash</title>
       <link>https://blog.virtualbeck.com/tags/bash/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/bash/</guid>
       <description></description>
     </item>
     <item>
-      <title>slack</title>
+      <title>Slack</title>
       <link>https://blog.virtualbeck.com/tags/slack/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/slack/</guid>
       <description></description>
     </item>
     <item>
-      <title>plex</title>
+      <title>Plex</title>
       <link>https://blog.virtualbeck.com/tags/plex/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/tags/plex/</guid>
       <description></description>
     </item>
