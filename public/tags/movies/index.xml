@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Movies on Virtualbeck&#39;s Blog</title>
+    <title>movies on Virtualbeck&#39;s Blog</title>
     <link>https://blog.virtualbeck.com/tags/movies/</link>
-    <description>Recent content in Movies on Virtualbeck&#39;s Blog</description>
-    <image>
-      <title>Virtualbeck&#39;s Blog</title>
-      <url>https://blog.virtualbeck.com/static/mike.webp</url>
-      <link>https://blog.virtualbeck.com/static/mike.webp</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
+    <description>Recent content in movies on Virtualbeck&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/movies/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +13,9 @@
       <link>https://blog.virtualbeck.com/posts/movies/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/movies/</guid>
-      <description>Are movies worth it?</description>
+      <description>Our family went to the movies today. I have some thoughts.
+Ease of entry: 10/10. We bought tickets online and just scanned a QR code and it printed out our tickets. 1 person took our tickets and tore them. Easy peasy.
+Movie cost: 5/10. Paying $50 for a matinee for 2 kids and 2 adults seems a bit overboard. At least it was a good movie. Also, the seats were electric recliners which were comfortable.</description>
     </item>
   </channel>
 </rss>

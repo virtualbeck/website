@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtualbeck&#39;s Blog</title>
     <link>https://blog.virtualbeck.com/</link>
     <description>Recent content on Virtualbeck&#39;s Blog</description>
-    <image>
-      <title>Virtualbeck&#39;s Blog</title>
-      <url>https://blog.virtualbeck.com/static/mike.webp</url>
-      <link>https://blog.virtualbeck.com/static/mike.webp</link>
-    </image>
-    <generator>Hugo -- 0.124.1</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>heat-battery</title>
+      <link>https://blog.virtualbeck.com/posts/heat-battery/</link>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/heat-battery/</guid>
+      <description>This time of year it is cool in the mornings and warm in the afternoon. For example, today we are slated to have a high of 80F, and it was 39F this morning. Pretty high temp swing. To leverage this, I&amp;rsquo;ve started pulling in cool air in the mornings. So much so that the kids complain about the cold.
+What do you need? A box fan. That&amp;rsquo;s it.
+Why not just turn on the AC?</description>
+    </item>
     <item>
       <title>dollywood</title>
       <link>https://blog.virtualbeck.com/posts/dollywood/</link>
@@ -34,7 +38,9 @@ If we all lose 20 pounds, then we are all fat losers!</description>
       <link>https://blog.virtualbeck.com/posts/movies/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/movies/</guid>
-      <description>Are movies worth it?</description>
+      <description>Our family went to the movies today. I have some thoughts.
+Ease of entry: 10/10. We bought tickets online and just scanned a QR code and it printed out our tickets. 1 person took our tickets and tore them. Easy peasy.
+Movie cost: 5/10. Paying $50 for a matinee for 2 kids and 2 adults seems a bit overboard. At least it was a good movie. Also, the seats were electric recliners which were comfortable.</description>
     </item>
     <item>
       <title>traefik notes</title>
@@ -80,6 +86,20 @@ I&amp;rsquo;ve had the misfortune to be somewhat of a beta tester in this regard
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/about/</guid>
       <description>about</description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>https://blog.virtualbeck.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/archives/</guid>
+      <description>archives</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://blog.virtualbeck.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/search/</guid>
+      <description>search</description>
     </item>
   </channel>
 </rss>
