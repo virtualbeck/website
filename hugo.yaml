@@ -46,20 +46,21 @@ params:
   label:
     text: "Virtualbeck's Blog"
     icon: /mike.webp
-    iconHeight: 34
+    iconHeight: 36
+    iconWidth: 36
 
   # home-info mode
   homeInfoParams:
     Title: "\U0001f44b Welcome! Now what?" # https://charbase.com,  use Python Escape
     Content: >
       - What: A dumping ground for thoughts I deem worthy of sharing.
-      
+
       - Why: Everyone **needs** a blog, right?
-      
+
       - When: Now, and also way back, long ago thoughts. For presevation.
-      
+
       - Who: Me, Mike Beck.
-      
+
       - Where: Here. You're here. Also, my other social site below.
 
   socialIcons:
