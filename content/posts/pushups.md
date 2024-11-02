@@ -33,3 +33,5 @@ I’m committed to continuing this journey. Who knows, I might even share my pro
 - May 31, 2024: 38
 - Jun 22, 2024: 10
 - Sep 27, 2024: 30
+
+Update Nov 2, 2024: I've lost [some weight](https://blog.virtualbeck.com/posts/weight-loss), so I'm going to start doing weight training soom^tm. Standby for updates!
