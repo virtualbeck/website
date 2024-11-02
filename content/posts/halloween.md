@@ -1,7 +1,7 @@
 +++
 author = "Mike"
 title = "halloween"
-date = "2024-02-11"
+date = "2024-11-02"
 description = "A recounting of our halloween adventure from 2024"
 tags = [
     "halloween",

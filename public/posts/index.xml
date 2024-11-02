@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.124.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>halloween</title>
+      <link>https://blog.virtualbeck.com/posts/halloween/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/halloween/</guid>
+      <description>A recounting of our halloween adventure from 2024</description>
+    </item>
     <item>
       <title>heat-battery</title>
       <link>https://blog.virtualbeck.com/posts/heat-battery/</link>
@@ -66,13 +73,6 @@ That burst of motivation quickly met the cold, hard truth of physics.</descripti
       <description>Why are you the way you are?
 Recently, my organization has made the decision for me to move away from a linux workstation to a windows workstation. This comes with many questions, not the least of which is networking. Our organization uses a VPN which users use to connect to internal applications.
 I&amp;rsquo;ve had the misfortune to be somewhat of a beta tester in this regard, and I&amp;rsquo;ve had intermittent success at reaching internal applications.</description>
-    </item>
-    <item>
-      <title>halloween</title>
-      <link>https://blog.virtualbeck.com/posts/halloween/</link>
-      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.virtualbeck.com/posts/halloween/</guid>
-      <description>A recounting of our halloween adventure from 2024</description>
     </item>
     <item>
       <title>Bash plus Slack</title>
