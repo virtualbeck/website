@@ -8,11 +8,22 @@ tags= ["css"]
 
 {{< rawhtml >}}
 <div>
-  <p class="floating-text">
-  This is an example of floating text that will slowly drift.
-  Over time, it will become unreadable.
-  It slowly moves around the page.
-  The longer you look, the more chaotic it gets.
+  <p class="blurring-text">
+  .blurring-text {
+  opacity: 1;
+  animation: blurEffect 200s infinite;
+  will-change: transform, opacity, filter;  
+}
+
+@keyframes blurEffect {
+  0% {
+    filter: blur(0);
+  }
+  100% {
+    filter: blur(1px);
+  }
+}
+
   </p>
 </div>
 {{< /rawhtml >}}
