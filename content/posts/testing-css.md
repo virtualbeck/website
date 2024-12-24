@@ -9,21 +9,16 @@ tags= ["css"]
 {{< rawhtml >}}
 <div>
   <p class="blurring-text">
-  ```.blurring-text {
-  opacity: 1;
-  animation: blurEffect 200s infinite;
-  will-change: transform, opacity, filter;  
-}
-
-@keyframes blurEffect {
-  0% {
-    filter: blur(0);
+  .blurring-text {
+    opacity: 1;
+    animation: blurEffect 200s infinite;
+    will-change: transform, opacity, filter;
   }
-  100% {
-    filter: blur(1px);
-  }
-}```
 
+  @keyframes blurEffect {
+    0% {filter: blur(0);}
+    100% {filter: blur(1px);}
+  }
   </p>
 </div>
 {{< /rawhtml >}}
