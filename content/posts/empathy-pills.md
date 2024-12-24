@@ -1,6 +1,6 @@
 +++
 author= "Mike"
-title= "empathy pills"
+title= '{{< rawhtml >}}<span class="blurring-text">empathy pills</span>{{< /rawhtml >}}'
 date= "2024-12-23"
 draft= "false"
 tags= ["adderall","empathy"]
