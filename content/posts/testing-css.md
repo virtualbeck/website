@@ -9,7 +9,7 @@ tags= ["css"]
 {{< rawhtml >}}
 <div>
   <p class="blurring-text">
-  .blurring-text {
+  ```.blurring-text {
   opacity: 1;
   animation: blurEffect 200s infinite;
   will-change: transform, opacity, filter;  
@@ -22,7 +22,7 @@ tags= ["css"]
   100% {
     filter: blur(1px);
   }
-}
+}```
 
   </p>
 </div>
