@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.virtualbeck.com/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.virtualbeck.com/tags/adderall/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,9 +18,6 @@
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/</loc>
-    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/apple/</loc>

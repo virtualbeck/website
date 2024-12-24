@@ -1,5 +1,5 @@
 baseURL: https://blog.virtualbeck.com/
-title: Virtualbeck's Blog
+title: <h1><span class="styled-title">Virtualbeck's Blog</h1</span></h1>
 languageCode: en-us
 theme: PaperMod
 
@@ -44,7 +44,7 @@ params:
   images: ["static/mike.webp"]
 
   label:
-    text: "Virtualbeck's Blog"
+   # text: "Virtualbeck's Blog"
     icon: /mike.webp
     iconHeight: 36
     iconWidth: 36
