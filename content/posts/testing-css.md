@@ -8,10 +8,10 @@ tags= ["css"]
 
 {{< rawhtml >}}
 <div class="blurring-text">
-  <p>.blurring-text {
-    opacity: 1;
-    animation: blurEffect 200s infinite;
-    will-change: transform, opacity, filter;
+  <p>.blurring-text {\n
+    opacity: 1;\n
+    animation: blurEffect 200s infinite;\n
+    will-change: transform, opacity, filter;\n
   }</p>
 
   <p class="blurring-text">@keyframes blurEffect {</p>
