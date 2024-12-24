@@ -1,10 +1,11 @@
 +++
 author= "Mike"
-title= "{{< rawhtml >}}<span class=\"blurring-text\">empathy pills</span>{{< /rawhtml >}}"
 date= "2024-12-23"
 draft= "false"
 tags= ["adderall","empathy"]
 +++
+
+{{< rawhtml >}}<h1 class="blurring-text">empathy pills</h1>{{< /rawhtml >}}
 
 All my life, I've never shown an immense amount of empathy. Whether that is a product of nature or nurture, I'd say nature. My parents love me and we have a great relationship. I'm naturally curious and concerned about others' feelings, but often I have a cold pragmatic response to emotional output. This has remained a constant throughout my life.. up until I started taking adderall.
 
