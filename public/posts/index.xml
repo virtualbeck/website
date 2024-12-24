@@ -26,7 +26,14 @@ Last year, for me, was the year of caffeine.</description>
       <link>https://blog.virtualbeck.com/posts/testing-css/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/testing-css/</guid>
-      <description> .blurring-text { opacity: 1; animation: blurEffect 200s infinite; will-change: transform, opacity, filter; } @keyframes blurEffect { 0% {filter: blur(0);} 100% {filter: blur(1px);} } </description>
+      <description>.blurring-text {
+opacity: 1;
+animation: blurEffect 200s infinite;
+will-change: transform, opacity, filter;&lt;\p&gt; }
+@keyframes blurEffect {
+0% {filter: blur(0);}
+100% {filter: blur(1px);}
+}</description>
     </item>
     <item>
       <title>asahi linux</title>
