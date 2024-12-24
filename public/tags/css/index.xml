@@ -18,13 +18,10 @@
       <link>https://blog.virtualbeck.com/posts/testing-css/</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/testing-css/</guid>
-      <description>.blurring-text {
-opacity: 1;
-animation: blurEffect 200s infinite;
-will-change: transform, opacity, filter;&lt;\p&gt; }
+      <description>.blurring-text { opacity: 1; animation: blurEffect 200s infinite; will-change: transform, opacity, filter; }
 @keyframes blurEffect {
 0% {filter: blur(0);}
-100% {filter: blur(1px);}
+100% {filter: blur(5px);}
 }</description>
     </item>
   </channel>
