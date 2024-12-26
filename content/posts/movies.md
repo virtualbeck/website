@@ -19,7 +19,6 @@ Food: 2/10. $15 for about 4 cups of popcorn and a 16 ounce drink. $7 for a bottl
 
 I love going to the movies with my family, but it feels like it is becoming out-priced for what you get. The price is dictated by the free market though. If people start voting with their feet, then the theaters will be forced to lower prices. Until then, let the money be spent like water. $7 water.
 
-<<rawhtml>>
 <div class="modal-container">
   <div class="modal-interior">
     <a class="modal-btn" href="#open-modal">Why did the chicken cross the road?</a>
@@ -33,4 +32,3 @@ I love going to the movies with my family, but it feels like it is becoming out-
     </div>
   </div>
 </div>
-<</rawhtml>>
