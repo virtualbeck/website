@@ -28,7 +28,7 @@ then
       sed "s/\b$word\b/\x1b[33m&\x1b[0m/g"
 
       # Now ask the user if they want to add any misspelled words to the local dictionary
-      if [ ${#MISSPELLED_WORDS[@]} -gt 0 ]; then
+      if [ "${#MISSPELLED_WORDS[@]}" -gt 0 ]; then
         for word in "${MISSPELLED_WORDS[@]}"; do
           read -p "Do you want to add the word '$word' to the local dictionary? (y/n): " add_word
           if [[ "$add_word" == "y" || "$add_word" == "Y" ]]; then
