@@ -3,14 +3,7 @@ author = "Mike"
 title = "halloween"
 date = "2024-11-02"
 description = "A recounting of our halloween adventure from 2024"
-tags = [
-    "halloween",
-]
-categories = [
-    "kids",
-    "candy",
-]
-series = ["blog"]
+tags = ["halloween"]
 draft = false
 +++
 Halloween: A Night of Sugar, Sleep, and Sogginess.
@@ -26,4 +19,3 @@ We went to play and hang out at a nearby friend's house and they played for anot
 As for me? Well, let's just say I'm still recovering from the sugary onslaught. I had like 5 packets of Sweedish Fish, and feel hungover from all the sugar. My kids are now sporting an impressive collection of sugar-fueled tummyaches, sticky fingers, and what can only be described as "super-gross" ruined M&M paper-based wrappers.
 
 Costumes this year were neon skeleton (daughter,4), and Minecraft Warden (son, 9). All in all, it was a solid Halloween outing. They only get so many fun Halloweens before the magic wears off and they become uninterested. It was such a pleasure to see them gleefully run around all night with friends and family. Here's to another year of magic!
-
