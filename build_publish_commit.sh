@@ -24,23 +24,23 @@ then
       MISSPELLED_WORDS+=("$word")
 
       # Find the file containing the misspelled word, show context, and color the misspelled word yellow
-      grep -H -o -E '\b(\w+\s){0,2}'"$word"'\s(\w+\s){0,2}\w+\b' content/**/*.md | \
+      grep -H -o -E '\b(\w+\s){0,2}'"$word"'\s(\w+\s){0,2}\w+\b' content/posts/*.md | \
       sed "s/\b$word\b/\x1b[33m&\x1b[0m/g"
-    done
-  fi
 
-  # Now ask the user if they want to add any misspelled words to the local dictionary
-  if [ ${#MISSPELLED_WORDS[@]} -gt 0 ]; then
-    for word in "${MISSPELLED_WORDS[@]}"; do
-      read -p "Do you want to add the word '$word' to the local dictionary? (y/n): " add_word
-      if [[ "$add_word" == "y" || "$add_word" == "Y" ]]; then
-        # Add the word to the local dictionary if it's not already there
-        if ! grep -Fxq "$word" "$LOCAL_DICTIONARY"; then
-          echo "$word" >> "$LOCAL_DICTIONARY"
-          echo "Added '$word' to the local dictionary."
-        else
-          echo "'$word' is already in the local dictionary."
-        fi
+      # Now ask the user if they want to add any misspelled words to the local dictionary
+      if [ ${#MISSPELLED_WORDS[@]} -gt 0 ]; then
+        for word in "${MISSPELLED_WORDS[@]}"; do
+          read -p "Do you want to add the word '$word' to the local dictionary? (y/n): " add_word
+          if [[ "$add_word" == "y" || "$add_word" == "Y" ]]; then
+            # Add the word to the local dictionary if it's not already there
+            if ! grep -Fxq "$word" "$LOCAL_DICTIONARY"; then
+              echo "$word" >> "$LOCAL_DICTIONARY"
+              echo "Added '$word' to the local dictionary."
+            else
+              echo "'$word' is already in the local dictionary."
+            fi
+          fi
+        done
       fi
     done
   fi
@@ -69,4 +69,3 @@ else
   echo "Build failed..." >&2
   exit 1
 fi
-
