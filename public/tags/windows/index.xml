@@ -9,7 +9,7 @@
       <url>https://blog.virtualbeck.com/static/mike.webp</url>
       <link>https://blog.virtualbeck.com/static/mike.webp</link>
     </image>
-    <generator>Hugo -- 0.124.1</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/windows/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,9 @@
       <link>https://blog.virtualbeck.com/posts/windows/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/windows/</guid>
-      <description>Why are you the way you are?
-Recently, my organization has made the decision for me to move away from a linux workstation to a windows workstation. This comes with many questions, not the least of which is networking. Our organization uses a VPN which users use to connect to internal applications.
-I&amp;rsquo;ve had the misfortune to be somewhat of a beta tester in this regard, and I&amp;rsquo;ve had intermittent success at reaching internal applications.</description>
+      <description>&lt;p&gt;Why are you the way you are?&lt;/p&gt;
+&lt;p&gt;Recently, my organization has made the decision for me to move away from a linux workstation to a windows workstation. This comes with many questions, not the least of which is networking. Our organization uses a VPN which users use to connect to internal applications.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve had the misfortune to be somewhat of a beta tester in this regard, and I&amp;rsquo;ve had intermittent success at reaching internal applications. The only solution that seems to be working at this point is to upgrade from Windows 10 to Windows 11, so that a WSL setting is supported which allows network pass-through from the host OS to the virtual OS.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
       <url>https://blog.virtualbeck.com/static/mike.webp</url>
       <link>https://blog.virtualbeck.com/static/mike.webp</link>
     </image>
-    <generator>Hugo -- 0.124.1</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/silicon/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <link>https://blog.virtualbeck.com/posts/asahi-linux/</link>
       <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/asahi-linux/</guid>
-      <description>A few years ago, I was made aware of a project by just a few people to get linux running on the (then) new apple M1 silcon. It was and is a large effort and was completed rather quickly. I didn&amp;rsquo;t have any computers that had the M1 chip to test, but recently I was able to grab an M2 Mac Mini and load up asahi linux onto it and test.</description>
+      <description>&lt;p&gt;A few years ago, I was made aware of a project by just a few people to get linux running on the (then) new apple M1 silcon. It was and is a large effort and was completed rather quickly. I didn&amp;rsquo;t have any computers that had the M1 chip to test, but recently I was able to grab an M2 Mac Mini and load up asahi linux onto it and test.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
