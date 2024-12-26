@@ -126,7 +126,7 @@ markup:
     style: monokai
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: true # allows raw html within markdown (https://gohugo.io/getting-started/configuration-markup/#rendererunsafe)
 
 outputs:
   home:
