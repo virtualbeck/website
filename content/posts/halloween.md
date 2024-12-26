@@ -19,7 +19,7 @@ I'm still buzzing from our family's Halloween adventure last night. We hit up th
 
 As we trudged from house to house, our damp tennis shoes squelching in the wet pavement, the kids' excitement only grew. They zipped through each yard, pail of goodies clutched tightly in their hands, while Mom and Dad tried to keep up! They were loving it. Little did we know, our car would later become an impromptu slumber party.
 
-After what felt like an eternity (2 hours), the kids started to show signs of wear. We'd gathered so much loot that it was starting to weigh them down. I started getting requests to "Hold my bucket" All I knew was they were dragging themselves along, candy wrappers clinging to their fingers and clothes like tiny little flags. Eating candy whilst collecting more candy. Like a small candy conveyer belt.
+After what felt like an eternity (2 hours), the kids started to show signs of wear. We'd gathered so much loot that it was starting to weigh them down. I started getting requests to "Hold my bucket" All I knew was they were dragging themselves along, candy wrappers clinging to their fingers and clothes like tiny little flags. Eating candy whilst collecting more candy. Like a small candy conveyor belt.
 
 We went to play and hang out at a nearby friend's house and they played for another couple hours while the parents hung out. Great night! When we got home, the kids tumbled out of the car, goodies cast aside, and promptly fell asleep.
 
