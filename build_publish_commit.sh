@@ -20,28 +20,24 @@ then
     echo "No spelling errors found."
   else
     echo "$SPELL_ERRORS" | sort -u | while read word; do
-      # Add misspelled word to the list
-      MISSPELLED_WORDS+=("$word")
 
       # Find the file containing the misspelled word, show context, and color the misspelled word yellow
       grep -H -o -E '\b(\w+\s){0,2}'"$word"'\s(\w+\s){0,2}\w+\b' content/posts/*.md | \
       sed "s/\b$word\b/\x1b[33m&\x1b[0m/g"
 
       # Now ask the user if they want to add any misspelled words to the local dictionary
-      if [ "${#MISSPELLED_WORDS[@]}" -gt 0 ]; then
-        for word in "${MISSPELLED_WORDS[@]}"; do
-          read -p "Do you want to add the word '$word' to the local dictionary? (y/n): " add_word
-          if [[ "$add_word" == "y" || "$add_word" == "Y" ]]; then
-            # Add the word to the local dictionary if it's not already there
-            if ! grep -Fxq "$word" "$LOCAL_DICTIONARY"; then
-              echo "$word" >> "$LOCAL_DICTIONARY"
-              echo "Added '$word' to the local dictionary."
-            else
-              echo "'$word' is already in the local dictionary."
-            fi
+      for w in $word; do
+        read -p "Do you want to add the word '$w' to the local dictionary? (y/n): " add_word
+        if [[ "$add_word" == "y" || "$add_word" == "Y" ]]; then
+          # Add the word to the local dictionary if it's not already there
+          if ! grep -Fxq "$w" "$LOCAL_DICTIONARY"; then
+            echo "$w" >> "$LOCAL_DICTIONARY"
+            echo "Added '$w' to the local dictionary."
+          else
+            echo "'$w' is already in the local dictionary."
           fi
-        done
-      fi
+        fi
+      done
     done
   fi
 
