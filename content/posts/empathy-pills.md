@@ -15,9 +15,7 @@ Funny enough, I _was_ diagnosed with ADHD when I was younger (perhaps 13 or 14 y
 
 So I talked to my doc about the possibility of having ADHD, discussed my unsafe (or at least unsustainable) amounts of caffeine consumption, and the possibility of having 10mg of adderall as a replacement. After a few months of thinking it over, I said yes and had the prescription filled. Overnight 
 {{< rawhtml >}}
-<span class="no-break">
-<span class="wiggle-letter">g</span><span class="wiggle-letter">a</span><span class="wiggle-letter">m</span><span class="wiggle-letter">e</span> <span class="wiggle-letter">c</span><span class="wiggle-letter">h</span><span class="wiggle-letter">a</span><span class="wiggle-letter">n</span><span class="wiggle-letter">g</span><span class="wiggle-letter">e</span><span class="wiggle-letter">r</span>
-</span>{{< /rawhtml >}}. 
+<span class="no-break"><span class="wiggle-letter">g</span><span class="wiggle-letter">a</span><span class="wiggle-letter">m</span><span class="wiggle-letter">e</span> <span class="wiggle-letter">c</span><span class="wiggle-letter">h</span><span class="wiggle-letter">a</span><span class="wiggle-letter">n</span><span class="wiggle-letter">g</span><span class="wiggle-letter">e</span><span class="wiggle-letter">r</span></span>{{< /rawhtml >}}. 
 Although everything felt more clear and in focus from a mental standpoint, it wasn't apparent to me that I had gained a sense of empathy until about a month in. It honestly feels like a new emotion to me. Like someone has been exhaustively trying to convey the color `blurple` to me through words only, and then finally revealed it with paint and canvas. It was the final piece to understanding a concept I've always dimly been aware of.
 
 So now I'm on empathy pills, and I'm so glad for the change. If I can convey the feeling to you, the reader, through words it would be this: it almost feels like relating to someone else's viewpoint or situation until I'm on the verge of crying. Perhaps that's not actually the correct was empathy is felt for the majority of people. I'll say this though, it is a vast self-improvement.
