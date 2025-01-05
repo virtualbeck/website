@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# remove old css stylesheet(s)
+rm public/assets/css/stylesheet.*.css
+
 # Build the site
 hugo
 
@@ -14,9 +17,6 @@ then
     exit 0
   else
     git push
-    # remove old generated stylesheet(s)
-    rm /home/linux/docker-data/virtualbeck_blog/public/assets/css/stylesheet.*.css 
-    
     cp -a public/ /home/linux/docker-data/virtualbeck_blog/
     cd ~/docker-data/traefik && docker-compose restart virtualbeck_nginx
   fi
