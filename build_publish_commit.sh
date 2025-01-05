@@ -2,6 +2,7 @@
 
 # remove old css stylesheet(s)
 rm public/assets/css/stylesheet.*.css
+rm /home/linux/docker-data/virtualbeck_blog/public/assets/css/stylesheet.*.css 
 
 # Build the site
 hugo
