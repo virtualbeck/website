@@ -2,22 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.virtualbeck.com/tags/journaling/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/posts/2025_01_11_151439_cst/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/tags/personal/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.virtualbeck.com/posts/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/tags/reflections/</loc>
-    <lastmod>2025-01-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/tags/</loc>
     <lastmod>2025-01-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/</loc>
@@ -30,6 +15,9 @@
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/posts/empathy-pills/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/</loc>
     <lastmod>2024-12-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/apple/</loc>
