@@ -21,7 +21,7 @@ So what's the big deal? I _probably_ wouldn't be concerned if I hadn't had passe
 
 I didn't say anything at the time because I thought that they were pushing sleepytime drugs in the IV, so I accepted the cold sensation creeping up my right arm and promptly fell asleep. I dreamed.
 
-A moment later (20 seconds later according to the nurse that was doing my vitals) a came to. "Mike! Mike! Mike!", I heard as I came back to reality.
+A moment later (20 seconds later according to the nurse that was doing my vitals) I came to. "Mike! Mike! Mike!", I heard as I came back to reality.
 
 So... now I'm more worried about my pain in my hand then the pain from where the surgeon cut in and took tissue for biopsy. Not a wonderful place to be in. I thought I'd write it down here as an account while it was still fresh in my mind. 
 
