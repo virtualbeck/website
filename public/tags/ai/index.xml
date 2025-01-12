@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ai on Virtualbeck&#39;s Blog</title>
+    <link>https://blog.virtualbeck.com/tags/ai/</link>
+    <description>Recent content in Ai on Virtualbeck&#39;s Blog</description>
+    <image>
+      <title>Virtualbeck&#39;s Blog</title>
+      <url>https://blog.virtualbeck.com/static/mike.webp</url>
+      <link>https://blog.virtualbeck.com/static/mike.webp</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.virtualbeck.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test_ai_slop</title>
+      <link>https://blog.virtualbeck.com/posts/ai_slop/test/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/ai_slop/test/</guid>
+      <description>Let&amp;#39;s see if this takes</description>
+    </item>
+  </channel>
+</rss>
