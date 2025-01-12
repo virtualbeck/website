@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>surgery</title>
+      <link>https://blog.virtualbeck.com/posts/hospital/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/hospital/</guid>
+      <description>thought dump on my surgical experience</description>
+    </item>
     <item>
       <title>empathy pills</title>
       <link>https://blog.virtualbeck.com/posts/empathy-pills/</link>
