@@ -24,3 +24,7 @@ I didn't say anything at the time because I thought that they were pushing sleep
 A moment later (20 seconds later according to the nurse that was doing my vitals) a came to. "Mike! Mike! Mike!", I heard as I came back to reality.
 
 So... now I'm more worried about my pain in my hand then the pain from where the surgeon cut in and took tissue for biopsy. Not a wonderful place to be in. I thought I'd write it down here as an account while it was still fresh in my mind. 
+
+I'm going to put the link for the pictures here from my google photos for posterity.
+
+[Jan 11th](https://photos.app.goo.gl/bxpQ6XgTew4Cj9seA)
