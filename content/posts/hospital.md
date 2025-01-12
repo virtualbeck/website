@@ -9,11 +9,11 @@ draft = false
 
 Two days ago, I went in to the hospital to have a couple small skin tissues excised. You know, just your typical Thursday. Today I'm waiting for the results. It's a great way to spend your birthday.
 
-It snowed about 5 inches yesterday and the kids have been loving it. Playing outside for hours at a time, and coming in completly cold and exhausted. I've made them Mexican hot chocolate (Nestle Authentic Mexian Hot Chacolate, thank you very much). Kimber whipped up a batch of snickerdoodle cookies. It's been grand!
+It snowed about 5 inches yesterday and the kids have been loving it. Playing outside for hours at a time, and coming in completely cold and exhausted. I've made them Mexican hot chocolate (Nestle Authentic Mexican Hot Chocolate, thank you very much). Kimber whipped up a batch of snickerdoodle cookies. It's been grand!
 
-I've been taking pain pills for the sugical sites, but another pain has emerged. One that I didn't really consider. Hand and finger pain. Allow me to explain.
+I've been taking pain pills for the surgical sites, but another pain has emerged. One that I didn't really consider. Hand and finger pain. Allow me to explain.
 
-When I was getting my IV put in at the hospital, the nurse went from left arm to right hand in search of a vein. Apparently she found on in my right hand, rather high up near where my tendons bunch together that control my fingers. Between my middle and ring tendon, about an inch from my wrist. I can brush my laft finger over the dot the needle made right now, and it feels like a cold shooting pain in my right ring finger.
+When I was getting my IV put in at the hospital, the nurse went from left arm to right hand in search of a vein. Apparently she found on in my right hand, rather high up near where my tendons bunch together that control my fingers. Between my middle and ring tendon, about an inch from my wrist. I can brush my left finger over the dot the needle made right now, and it feels like a cold shooting pain in my right ring finger.
 
 There is also a bit of bruising on the back of my wrist. I stopped short, mid-sentence to say how much the needle hurt as it went in. She said, "Just hold still, try to relax." My right hand _had_ tensed up from the pain. I relaxed it and took some deep breaths.
 
