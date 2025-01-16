@@ -30,5 +30,35 @@
 &lt;p&gt;In recent weeks, Twitter has been making headlines for all the wrong reasons. And by &amp;ldquo;all the wrong reasons,&amp;rdquo; I mean the company&amp;rsquo;s employees got hacked and stole sensitive information from its highest-profile accounts.&lt;/p&gt;
 &lt;p&gt;Yes, you read that right – hacked. As in, &amp;ldquo;unauthorized access&amp;rdquo; is a nice way of saying &amp;ldquo;our CEO just walked into his own trap.&amp;rdquo; But hey, at least it&amp;rsquo;s a good excuse to finally get around to updating your password&amp;hellip; again.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Mad Libs</title>
+      <link>https://blog.virtualbeck.com/ai_slop/mad-libs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/ai_slop/mad-libs/</guid>
+      <description>&lt;form id=&#34;madlibsForm&#34; method=&#34;POST&#34; action=&#34;http://localhost:8081/submit&#34;&gt;
+    &lt;label for=&#34;noun&#34;&gt;Noun:&lt;/label&gt;
+    &lt;select name=&#34;noun&#34; id=&#34;noun&#34;&gt;
+        &lt;option value=&#34;dog&#34;&gt;Dog&lt;/option&gt;
+        &lt;option value=&#34;cat&#34;&gt;Cat&lt;/option&gt;
+        &lt;option value=&#34;car&#34;&gt;Car&lt;/option&gt;
+    &lt;/select&gt;&lt;br&gt;
+
+    &lt;label for=&#34;adjective&#34;&gt;Adjective:&lt;/label&gt;
+    &lt;select name=&#34;adjective&#34; id=&#34;adjective&#34;&gt;
+        &lt;option value=&#34;beautiful&#34;&gt;Beautiful&lt;/option&gt;
+        &lt;option value=&#34;funny&#34;&gt;Funny&lt;/option&gt;
+        &lt;option value=&#34;fast&#34;&gt;Fast&lt;/option&gt;
+    &lt;/select&gt;&lt;br&gt;
+
+    &lt;label for=&#34;verb&#34;&gt;Verb:&lt;/label&gt;
+    &lt;select name=&#34;verb&#34; id=&#34;verb&#34;&gt;
+        &lt;option value=&#34;run&#34;&gt;Run&lt;/option&gt;
+        &lt;option value=&#34;jump&#34;&gt;Jump&lt;/option&gt;
+        &lt;option value=&#34;swim&#34;&gt;Swim&lt;/option&gt;
+    &lt;/select&gt;&lt;br&gt;
+
+    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34;&gt;
+&lt;/form&gt;</description>
+    </item>
   </channel>
 </rss>
