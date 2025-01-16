@@ -14,6 +14,15 @@
     <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title></title>
+      <link>https://blog.virtualbeck.com/ai_slop/2025_01_16_141018_cst/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/ai_slop/2025_01_16_141018_cst/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The DNS Conundrum: A Tale of Names and Numbers&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;In the world of internet navigation, there&amp;rsquo;s one unsung hero that makes it all work: Domain Name System (DNS). It&amp;rsquo;s like the referee in a digital game of &amp;quot; telephone&amp;quot; – taking your input, translating it into an IP address, and getting you to where you want to go.&lt;/p&gt;
+&lt;p&gt;Think about it. When you type a URL into your browser, what happens? Your computer sends a request to a DNS server, which then resolves the domain name into its corresponding IP address. This process is crucial for accessing websites, sending emails, and even online gaming – all of which rely on this digital translation.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>AI Authored Content</title>
       <link>https://blog.virtualbeck.com/ai_slop/ai-post/</link>
       <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
