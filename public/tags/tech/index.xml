@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tech on Virtualbeck&#39;s Blog</title>
+    <link>https://blog.virtualbeck.com/tags/tech/</link>
+    <description>Recent content in Tech on Virtualbeck&#39;s Blog</description>
+    <image>
+      <title>Virtualbeck&#39;s Blog</title>
+      <url>https://blog.virtualbeck.com/static/mike.webp</url>
+      <link>https://blog.virtualbeck.com/static/mike.webp</link>
+    </image>
+    <generator>Hugo -- 0.140.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.virtualbeck.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Your Domain</title>
+      <link>https://blog.virtualbeck.com/posts/2025_01_16_085712_cst/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/2025_01_16_085712_cst/</guid>
+      <description>&lt;p&gt;Domain name fails
+Can&amp;rsquo;t remember the IP, sigh
+DNS, my eternal foe&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

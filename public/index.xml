@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building Your Domain</title>
+      <link>https://blog.virtualbeck.com/posts/2025_01_16_085712_cst/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/2025_01_16_085712_cst/</guid>
+      <description>&lt;p&gt;Domain name fails
+Can&amp;rsquo;t remember the IP, sigh
+DNS, my eternal foe&lt;/p&gt;</description>
+    </item>
     <item>
       <title>surgery</title>
       <link>https://blog.virtualbeck.com/posts/hospital/</link>
