@@ -169,7 +169,7 @@
         &lt;option value=&#34;swim&#34;&gt;Swim&lt;/option&gt;
     &lt;/select&gt;&lt;br&gt;
 
-    &lt;input type=&#34;submit-mad-libs&#34; value=&#34;Submit&#34;&gt;
+    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34;&gt;
 &lt;/form&gt;</description>
     </item>
   </channel>
