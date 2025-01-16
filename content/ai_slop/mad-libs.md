@@ -26,6 +26,6 @@ type: post
         <option value="swim">Swim</option>
     </select><br>
 
-    <input type="submit" value="Submit">
+    <input type="submit-mad-libs" value="Submit">
 </form>
 {{< /rawhtml >}}
