@@ -21,7 +21,7 @@ params:
   description: "virtualbeck's blog"
   keywords: [Blog, virtualbeck]
   author: virtualbeck
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  images: ["https://avatars.githubusercontent.com/u/13488662"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
