@@ -34,11 +34,11 @@ params:
   ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
-  disableSpecial1stPost: false
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
   hidemeta: false
-  hideSummary: true
+  hideSummary: false
   showtoc: false
   tocopen: false
   images: ["static/mike.webp"]
