@@ -167,7 +167,7 @@ You can also host a service that is running on another local host with the `file
 
 This way, you can specify the _correct_ IP:PORT for traefik to use, rather than rely on labels. If you try to specify with labels, you will end up with an IP address assigned by docker within the host machine where traefik is running... which is fine if you don't want things to work. Check this example out:
 
-```
+```yaml
 http:
   routers:
     route-to-local-ip:
