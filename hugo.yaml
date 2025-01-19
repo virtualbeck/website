@@ -42,12 +42,10 @@ params:
   showtoc: false
   tocopen: false
   images: ["static/mike.webp"]
-  images: ["https://avatars.githubusercontent.com/u/13488662"]
 
   label:
    # text: "Virtualbeck's Blog"
     icon: /mike.webp
-    icon: /13488662.jpeg
     iconHeight: 36
     iconWidth: 36
 
