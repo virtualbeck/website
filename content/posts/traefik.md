@@ -15,8 +15,7 @@ What is traefik? `Traefik (pronounced traffic) is a modern HTTP reverse proxy an
 
 <details>
   <summary>Click to view code</summary>
-  <pre>
-```
+  <pre><code>
 version: '3.8'
 services:
 
@@ -162,8 +161,7 @@ services:
       - "traefik.http.routers.ollama.entrypoints=websecure"
       - "traefik.http.routers.ollama.tls.certresolver=myresolver"
       - "traefik.http.routers.ollama.middlewares=authelia"
-```
-  </pre>
+  </code></pre>
 </details>
 
 You can also host a service that is running on another local host with the `file` provider context. You just mention that, as I did above, and include a matching config file in the directory specified there. Something like this:
