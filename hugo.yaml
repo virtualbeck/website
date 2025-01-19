@@ -26,15 +26,15 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: false
+  ShowReadingTime: true
   ShowShareButtons: false
   ShowPostNavLinks: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: false
+  ShowWordCount: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
-  disableSpecial1stPost: true
+  disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
   hidemeta: false
