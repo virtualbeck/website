@@ -15,7 +15,8 @@ What is traefik? `Traefik (pronounced traffic) is a modern HTTP reverse proxy an
 
 <details>
   <summary>Click to view code</summary>
-```yaml
+
+```
 version: '3.8'
 services:
 
