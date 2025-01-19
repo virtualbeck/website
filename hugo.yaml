@@ -53,15 +53,15 @@ params:
   homeInfoParams:
     Title: "\U0001f44b Welcome! Now what?" # https://charbase.com,  use Python Escape
     Content: >
-      - What: A dumping ground for thoughts I deem worthy of sharing.
+      - Who: Me, Mike Beck.
 
-      - Why: Everyone **needs** a blog, right?
+      - What: A dumping ground for thoughts I deem worthy of sharing.
 
       - When: Now, and also way back, long ago thoughts. For presevation.
 
-      - Who: Me, Mike Beck.
-
       - Where: Here. You're here. Also, my other social site below.
+
+      - Why: Everyone **needs** a blog, right?
 
   socialIcons:
     - name: github
