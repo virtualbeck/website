@@ -8,10 +8,7 @@ draft = false
 +++
 Ever find the perfect picture on Pinterest just to dash you hopes and/or dreams when you go to save it? Yeah, me too. I've written a bash function that will give you a url to the source image, so you can click on that and do what you want with it.
 
-There are some bash dependencies, but they are usually included with your distro:
-```bash
-wget,grep,sort,cut,uniq
-```
+There are some bash dependencies `wget,grep,sort,cut,uniq`, but they are usually included with your distro:
 
 ```bash
 function getPinterestOriginalImage_URLasArgument() {
