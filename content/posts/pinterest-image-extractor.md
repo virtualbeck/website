@@ -23,7 +23,7 @@ document.getElementById('pinterest-form').addEventListener('submit', function(ev
 
     var url = document.getElementById('url').value;
 
-    fetch('http://localhost:5000', {
+    fetch('http://localhost:5000/extract-image', {
         method: 'POST',
         body: new URLSearchParams({ url: url })
     })
