@@ -11,42 +11,8 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pinterest Image Extractor</title>
-      <link>https://blog.virtualbeck.com/posts/pinterest-image-extractor/</link>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.virtualbeck.com/posts/pinterest-image-extractor/</guid>
-      <description>&lt;h2 id=&#34;extract-pinterest-original-image&#34;&gt;Extract Pinterest Original Image&lt;/h2&gt;
-&lt;p&gt;Please input a Pinterest URL below, and we&amp;rsquo;ll fetch the original image for you:&lt;/p&gt;
-&lt;form id=&#34;pinterest-form&#34;&gt;
-    &lt;label for=&#34;url&#34;&gt;Pinterest URL:&lt;/label&gt;
-    &lt;input type=&#34;text&#34; id=&#34;url&#34; name=&#34;url&#34; placeholder=&#34;Enter Pinterest URL&#34; required
-           pattern=&#34;https:\/\/www\.pinterest\.com\/pin\/.*&#34; title=&#34;URL must be a valid Pinterest pin URL&#34; /&gt;
-    &lt;br&gt;&lt;/br&gt;
-    &lt;button type=&#34;submit&#34;&gt;Submit&lt;/button&gt;
-&lt;/form&gt;
-&lt;div id=&#34;result&#34;&gt;
-    &lt;!-- Image or error message will be displayed here --&gt;
-&lt;/div&gt;
-&lt;script&gt;
-document.getElementById(&#39;pinterest-form&#39;).addEventListener(&#39;submit&#39;, function(event) {
-    event.preventDefault();
-
-    var url = document.getElementById(&#39;url&#39;).value;
-
-    fetch(&#39;https://flask_app:5000/extract-image&#39;, {
-        method: &#39;POST&#39;,
-        body: new URLSearchParams({ url: url })
-    })
-    .then(response =&gt; response.json())
-    .then(data =&gt; {
-        if (data.image_url) {
-            document.getElementById(&#39;result&#39;).innerHTML = `&lt;h2&gt;Original Image:&lt;/h2&gt;&lt;img src=&#34;${data.image_url}&#34; alt=&#34;Pinterest Image&#34; /&gt;`;
-        } else if (data.error) {
-            document.getElementById(&#39;result&#39;).innerHTML = `&lt;p&gt;${data.error}&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Dill of Fate</title>
       <link>https://blog.virtualbeck.com/ai_slop/2025_01_21_100916_cst/</link>
