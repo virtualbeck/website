@@ -10,6 +10,7 @@ Please input a Pinterest URL below, and we'll fetch the original image for you:
     <label for="url">Pinterest URL:</label>
     <input type="text" id="url" name="url" placeholder="Enter Pinterest URL" required
            pattern="https:\/\/www\.pinterest\.com\/pin\/.*" title="URL must be a valid Pinterest pin URL" />
+    <br></br>
     <button type="submit">Submit</button>
 </form>
 
@@ -23,7 +24,7 @@ document.getElementById('pinterest-form').addEventListener('submit', function(ev
 
     var url = document.getElementById('url').value;
 
-    fetch('http://localhost:5000/extract-image', {
+    fetch('http://flask_app:5000/extract-image', {
         method: 'POST',
         body: new URLSearchParams({ url: url })
     })

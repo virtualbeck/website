@@ -24,6 +24,7 @@
     &lt;label for=&#34;url&#34;&gt;Pinterest URL:&lt;/label&gt;
     &lt;input type=&#34;text&#34; id=&#34;url&#34; name=&#34;url&#34; placeholder=&#34;Enter Pinterest URL&#34; required
            pattern=&#34;https:\/\/www\.pinterest\.com\/pin\/.*&#34; title=&#34;URL must be a valid Pinterest pin URL&#34; /&gt;
+    &lt;br&gt;&lt;/br&gt;
     &lt;button type=&#34;submit&#34;&gt;Submit&lt;/button&gt;
 &lt;/form&gt;
 &lt;div id=&#34;result&#34;&gt;
@@ -35,7 +36,7 @@ document.getElementById(&#39;pinterest-form&#39;).addEventListener(&#39;submit&#
 
     var url = document.getElementById(&#39;url&#39;).value;
 
-    fetch(&#39;http://localhost:5000/extract-image&#39;, {
+    fetch(&#39;http://flask_app:5000/extract-image&#39;, {
         method: &#39;POST&#39;,
         body: new URLSearchParams({ url: url })
     })
