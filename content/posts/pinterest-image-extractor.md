@@ -24,7 +24,7 @@ document.getElementById('pinterest-form').addEventListener('submit', function(ev
 
     var url = document.getElementById('url').value;
 
-    fetch('http://flask_app:5000/extract-image', {
+    fetch('https://flask_app:5000/extract-image', {
         method: 'POST',
         body: new URLSearchParams({ url: url })
     })
