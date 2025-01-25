@@ -6,7 +6,7 @@ description: "Gotta write these down somewhere"
 tags: ["goals"]
 draft: false
 ---
-I've heard it said that if you have something that you'd like done, it's not a goal until it is written down. To that point, I submit to you a list of goals I'd like to _at least_ look into this year.
+I've heard it said that if you have something that you'd like done, it's not a goal until it is <u>written down</u>. To that point, I submit to you a list of goals I'd like to _at least_ look into this year.
  
 In not partucular order:
   - water filtration, how it works, and making my own custom water filter
