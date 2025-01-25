@@ -11,7 +11,7 @@ I've heard it said that if you have something that you'd like done, it's not a g
 In not partucular order:
   - water filtration, how it works, and making my own custom water filter
   - chiptune/lofi album, possible to monitize, but more than likely just to do for fun
-  - write an app based on the [pinterest image extractor](./pinterest) idea I have on the blog
+  - write an app based on the [pinterest image extractor](../pinterest) idea I have on the blog
   - some device I can hang on the wall that is an one touch incrementor, maybe 3d print
   - auto tracking/displaying daily steps walked, first locally, later on the blog
   - LLM style-guide, downloads a website's content, writes content based on that style
