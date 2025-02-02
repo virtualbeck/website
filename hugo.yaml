@@ -59,9 +59,9 @@ params:
       
       - When: Now, and also way back, long ago thoughts. For presevation.
       
-      - Where: Here. You're here. Also, my other social site below.
+      - Where: Here. Also, my other social site below.
       
-      - Why: Everyone **needs** a blog, right?
+      - Why: Everyone _**needs**_ a blog, right?
 
   socialIcons:
     - name: github
