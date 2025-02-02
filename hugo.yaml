@@ -51,16 +51,13 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "\U0001f44b Welcome! Now what?" # https://charbase.com,  use Python Escape
+    #Title: "\U0001f44b 🆗 Welcome! Now what?" # https://charbase.com,  use Python Escape
+    Title: "🆗🆒" # https://charbase.com,  use Python Escape
     Content: >
       - Who: Me, Mike Beck.
-
       - What: A dumping ground for thoughts I deem worthy of sharing.
-
       - When: Now, and also way back, long ago thoughts. For presevation.
-
       - Where: Here. You're here. Also, my other social site below.
-
       - Why: Everyone **needs** a blog, right?
 
   socialIcons:
