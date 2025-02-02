@@ -19,7 +19,7 @@ then
   else
     git push
     cp -a public/ /home/linux/docker-data/virtualbeck_blog/
-    cd ~/docker-data/traefik && docker-compose restart virtualbeck_nginx
+    cd ~/docker-data/traefik && docker compose restart virtualbeck_nginx
   fi
 else
   echo "Build failed..." >&2
