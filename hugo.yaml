@@ -51,8 +51,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    #Title: "\U0001f44b 🆗 Welcome! Now what?" # https://charbase.com,  use Python Escape
-    Title: "🆗🆒" # https://charbase.com,  use Python Escape
+    Title: "Welcome!" # https://charbase.com,  use Python Escape
     Content: >
       - Who: Me, Mike Beck.
 
