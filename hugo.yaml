@@ -51,7 +51,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Welcome!" # https://charbase.com,  use Python Escape
+    Title: "Welcome!"
     Content: >
       - Who: Me, Mike Beck.
 
