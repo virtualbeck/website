@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Page Views on Virtualbeck&#39;s Blog</title>
+    <link>https://blog.virtualbeck.com/tags/page-views/</link>
+    <description>Recent content in Page Views on Virtualbeck&#39;s Blog</description>
+    <image>
+      <title>Virtualbeck&#39;s Blog</title>
+      <url>https://blog.virtualbeck.com/static/mike.webp</url>
+      <link>https://blog.virtualbeck.com/static/mike.webp</link>
+    </image>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.virtualbeck.com/tags/page-views/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>umami</title>
+      <link>https://blog.virtualbeck.com/posts/umami/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/umami/</guid>
+      <description>&lt;p&gt;Recently, I saw on a blog (&lt;a href=&#34;https://garry.net/posts&#34;&gt;this one&lt;/a&gt;) a page view counter. Having seen these on webpages for over 30 years now, I was struck that I had no idea how they worked. So like any other curiosity, I started searching around.&lt;/p&gt;
+&lt;p&gt;The first thought I had was that this was some sort of script that went and fetched a value from a database on page load, and either did an increment then, or afterwards. Probably afterwards, so as to keep the webpage snappy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

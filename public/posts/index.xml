@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.143.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>umami</title>
+      <link>https://blog.virtualbeck.com/posts/umami/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/umami/</guid>
+      <description>&lt;p&gt;Recently, I saw on a blog (&lt;a href=&#34;https://garry.net/posts&#34;&gt;this one&lt;/a&gt;) a page view counter. Having seen these on webpages for over 30 years now, I was struck that I had no idea how they worked. So like any other curiosity, I started searching around.&lt;/p&gt;
+&lt;p&gt;The first thought I had was that this was some sort of script that went and fetched a value from a database on page load, and either did an increment then, or afterwards. Probably afterwards, so as to keep the webpage snappy.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>goals</title>
       <link>https://blog.virtualbeck.com/posts/goals/</link>
