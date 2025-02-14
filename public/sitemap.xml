@@ -2,13 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.virtualbeck.com/tags/page-views/</loc>
-    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+    <loc>https://blog.virtualbeck.com/tags/code-server/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/containers/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/docker/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/linux/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/posts/</loc>
-    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/sidecar/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/ssh/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/tailscale/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/posts/tailscale/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/tls/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/page-views/</loc>
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/tracking/</loc>
@@ -18,9 +48,6 @@
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/umami/</loc>
-    <lastmod>2025-02-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/</loc>
     <lastmod>2025-02-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/posts/goals/</loc>
@@ -36,9 +63,6 @@
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/images/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/tags/linux/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/posts/pinterest/</loc>

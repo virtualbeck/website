@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ssh on Virtualbeck&#39;s Blog</title>
+    <link>https://blog.virtualbeck.com/tags/ssh/</link>
+    <description>Recent content in Ssh on Virtualbeck&#39;s Blog</description>
+    <image>
+      <title>Virtualbeck&#39;s Blog</title>
+      <url>https://blog.virtualbeck.com/static/mike.webp</url>
+      <link>https://blog.virtualbeck.com/static/mike.webp</link>
+    </image>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.virtualbeck.com/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tailscale &#43; code-server = heartemoji</title>
+      <link>https://blog.virtualbeck.com/posts/tailscale/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/tailscale/</guid>
+      <description>Running a local service as a sidecar container through tailscale</description>
+    </item>
+  </channel>
+</rss>
