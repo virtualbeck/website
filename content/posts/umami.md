@@ -2,7 +2,7 @@
 title: umami
 date: 2025-02-08
 author: Mike
-tags: ["umami","tracking","page views"]
+tags: ["umami", "tracking", "page views"]
 draft: false
 ---
 
@@ -18,11 +18,11 @@ Evidently, Hugo (or at least the theme I'm using, papermod) has support baked in
 
 The portal was a signup, and honestly it gave me an uneasy feeling. Like, google would have all the analytics of my website in exchange for a measley page view implementation. So, I kept looking. That lead me to a project named [umami](https://umami.is).
 
-You can click on the link abouve to read more about it, but I'll give you the gist here. It is an open-source web analytics tool that treats data privacy as a first-class citizen. It is lightweight, and can be self-hosted. So, that is what I'm doing now. I've spun up an umami docker container, and have it running at [umami.virtualbeck.com](https://umami.virtualbeck.com). It collects all sorts of stats, and they are automatically anonymized so as to not identify users. This makes umami GDPR compliant.
+You can click on the link above to read more about it, but I'll give you the gist here. It is an open-source web analytics tool that treats data privacy as a first-class citizen. It is lightweight, and can be self-hosted. So, that is what I'm doing now. I've spun up an umami docker container, and have it running at [umami.virtualbeck.com](https://umami.virtualbeck.com). It collects all sorts of stats, and they are automatically anonymized so as to not identify users. This makes umami GDPR compliant.
 
-It can also track actions on the website, like clicks. I have not implemented that yet - but I have implemented the most basic data collection that it come packaged with. I can basically see page-views and view duration, along with what device and general location (country scale).
+It can also track actions on the website, like clicks. I have not implemented that yet - but I have implemented the most basic data collection that it comes packaged with. I can basically see page-views and view duration, along with what device and general location (country scale).
 
-I just added a few lines to my docker compse file, and let traefik handle the rest. Read more about traefik [here](../traefik). I'll list the full setup in my docker compose file below. It refernces an endpoint cloudflare, but that is a cloudflare tunnel, which points back to my home server, so as to serve the traffic without opening up any ports to access my ssytems directly. Read more about it [here](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/). It's great, and it's free.
+I just added a few lines to my docker compose file, and let traefik handle the rest. Read more about traefik [here](../traefik). I'll list the full setup in my docker compose file below. It refernces an endpoint cloudflare, but that is a cloudflare tunnel, which points back to my home server, so as to serve the traffic without opening up any ports to access my ssytems directly. Read more about it [here](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/). It's great, and it's free.
 
 So the next step is how to implement a page view counter from data gethered by umami. If you see a page view counter on this website, it means my future-self has succeeded. If not, perhaps you're too fast in reading this and I haven't had time to implement it. Or perhaps I've died. Probably not though. I'll have a writeup for that implementation when it is completed. Thanks for reading!
 
