@@ -1,0 +1,22 @@
+name: John Doe
+email: john@example.com
+phone: 123-456-7890
+skills:
+  - "Go"
+  - "JavaScript"
+  - "CSS"
+experience:
+  - company: "Company A"
+    title: "Software Engineer"
+    start_date: "2020-01-01"
+    end_date: "2022-12-31"
+    description: "Developed web applications..."
+  - company: "Company B"
+    title: "Junior Developer"
+    start_date: "2018-06-01"
+    end_date: "2019-12-31"
+    description: "Worked on various projects..."
+education:
+  - degree: "Bachelor of Science"
+    school: "University XYZ"
+    year: "2018"
