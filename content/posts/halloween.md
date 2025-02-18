@@ -1,11 +1,12 @@
-+++
-author = "Mike"
-title = "halloween"
-date = "2024-11-02"
-description = "A recounting of our halloween adventure from 2024"
-tags = ["halloween"]
-draft = false
-+++
+---
+author: Mike
+title: halloween
+date: 2024-11-02
+description: "A recounting of our halloween adventure from 2024"
+tags: ["halloween"]
+draft: false
+---
+
 Halloween: A Night of Sugar, Sleep, and Sogginess.
 
 I'm still buzzing from our family's Halloween adventure last night. We hit up the neighborhood with the most epic trick-or-treating grounds – a sea of cul-de-sacs that seemed to stretch on forever. The little monsters (aka kids) were determined to collect as much candy as humanly possible, and I've gotta give 'em credit: they didn't let a little rain dampen their spirits.

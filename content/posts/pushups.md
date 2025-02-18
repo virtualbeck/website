@@ -1,10 +1,10 @@
-+++
-author= "Mike"
-title= "pushups"
-date= "2024-03-26"
-draft= "false"
-tags= ["pushups"]
-+++
+---
+author: Mike
+title: pushups
+date: 2024-03-26
+draft: false
+tags: ["pushups"]
+---
 
 So, I recently hit the big 4-0, and let me tell you, it feels like the universe decided to slap me with a big “Welcome to Old Age!” sticker. In an attempt to shake off the cobwebs, I thought, “Why not do some pushups and get back in shape?” Of course, I was promptly reminded that “round” is indeed a shape.
 
@@ -33,5 +33,6 @@ I’m committed to continuing this journey. Who knows, I might even share my pro
 - May 31, 2024: 38
 - Jun 22, 2024: 10
 - Sep 27, 2024: 30
+- Feb 16, 2025: 10
 
 Update Nov 2, 2024: I've lost [some weight](https://blog.virtualbeck.com/posts/weight-loss), so I'm going to start doing weight training soom^tm. Standby for updates!

@@ -1,10 +1,10 @@
-+++
-author= "Mike"
-title= "traefik notes"
-date= "2024-06-21"
-draft= "false"
-tags= ["traefik"]
-+++
+---
+author: Mike
+title: "traefik notes"
+date: 2024-06-21
+draft: false
+tags: ["traefik"]
+---
 
 Maybe this will help you!
 <!--more-->

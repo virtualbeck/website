@@ -1,10 +1,11 @@
-+++
-author = "Mike"
-title = "movies"
-date = "2024-09-28"
-description = "Are movies worth it?"
-draft = false
-+++
+---
+author: Mike
+title: movies
+date: 2024-09-28
+description: "Are movies worth it?"
+draft: false
+---
+
 Our family went to the movies today. I have some thoughts.
 
 Ease of entry: 10/10. We bought tickets online and just scanned a QR code and it printed out our tickets. 1 person took our tickets and tore them. Easy peasy.

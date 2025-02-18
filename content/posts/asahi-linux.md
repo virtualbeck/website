@@ -1,10 +1,10 @@
-+++
-author= "Mike"
-title= "asahi linux"
-date= "2024-12-15"
-draft= "false"
-tags= ["asahi","linux","llama3.2","LLM","apple","silicon"]
-+++
+---
+author: Mike
+title: asahi linux
+date: 2024-12-15
+draft: false
+tags: ["asahi","linux","llama3.2","LLM","apple","silicon"]
+---
 
 A few years ago, I was made aware of a project by just a few people to get linux running on the (then) new apple M1 silcon. It was and is a large effort and was completed rather quickly. I didn't have any computers that had the M1 chip to test, but recently I was able to grab an M2 Mac Mini and load up asahi linux onto it and test.
 

@@ -1,10 +1,11 @@
-+++
-author= "Mike"
-title= "dollywood"
-date= "2024-10-16"
-draft= "false"
-tags= ["dollywood"]
-+++
+---
+author: Mike
+title: dollywood
+date: 2024-10-16
+draft: false
+tags: ["dollywood","roller coasters","Mystery Mine", "headache"]
+---
+
 Last week, our family went to Dollywood, in Pidgeon Forge, TN. It was a great time! I wanted to take some time to jot down my thoughts before they became just meatspace between the ears.
 
 Dollywood used to be a Silver Dollar City park, and evidently Dolly Parton wanted a stake in the venture. One stipulation was that I be temporarily renamed to 'Dollywood' the first year. Well, on the first opening day under the new name, attendance was double the average, and the name stuck.

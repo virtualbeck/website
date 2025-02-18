@@ -1,10 +1,11 @@
-+++
-author= "Mike"
-title= "empathy pills"
-date= "2024-12-23"
-draft= "false"
-tags= ["adderall","empathy"]
-+++
+---
+author: Mike
+title: empathy pills
+date: 2024-12-23
+draft: false
+tags: ["adderall","empathy","good vibes","monster energy drink","ultra paradise"]
+---
+
 All my life, I've never shown an immense amount of empathy. Whether that is a product of nature or nurture, I'd say nature. My parents love me and we have a great relationship. I'm naturally curious and concerned about others' feelings, but often I have a cold pragmatic response to emotional output. This has remained a constant throughout my life.. up until I started taking adderall.
 
 Last year, for me, was the year of caffeine. Mike on caffeine was like Mike+. I could do more work, get it done faster, and _feel_ better physically. Have you heard of Monster energy drinks? Of course you have. You can probably even picture the Monster logo in your mind right now. It's very heavily marketed. The sugar-free drink of choice contains 150mg of caffeine. Based on the product's webpage for my favorite lime green drink in question - Ultra Paradise, it's flavor profile is `Kiwi Lime with a hint of Cucumber`. I don't know about that. It has always tasted like a green apple jolly rancher to me. Anyway, with 2 coffees and an Ultra Paradise down the hatch, it was game on. I was hooked on the feeling of ~300mg of caffeine pumping through my body.

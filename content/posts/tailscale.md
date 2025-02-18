@@ -1,6 +1,6 @@
 ---
 author: Mike
-title: tailscale + code-server = heartemoji
+title: tailscale and code-server
 date: 2025-02-12
 description: "Running a local service as a sidecar container through tailscale"
 tags: ["tailscale","sidecar","containers","docker","ssh","tls","linux","code-server"]

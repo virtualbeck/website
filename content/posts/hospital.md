@@ -1,11 +1,11 @@
-+++
-author = "Mike"
-title = "surgery"
-date = "2025-01-11"
-description = "thought dump on my surgical experience"
-tags = ["surgery"]
-draft = false
-+++
+---
+author: Mike
+title: surgery
+date: 2025-01-11
+description: "thought dump on my surgical experience"
+tags: ["surgery"]
+draft: false
+---
 
 Two days ago, I went in to the hospital to have a couple small skin tissues excised. You know, just your typical Thursday. Today I'm waiting for the results. It's a great way to spend your birthday.
 
@@ -28,3 +28,10 @@ So... now I'm more worried about my pain in my hand then the pain from where the
 I'm going to put the link for the pictures here from my google photos for posterity.
 
 [Jan 11th](https://photos.app.goo.gl/bxpQ6XgTew4Cj9seA)
+
+Update Feb 17th, 2024:
+I'm writing here to inform you of good news on all fronts! Firstly and most importantly, the pathology on the 2 tissue removals came back clean. There was no irregularity or cancerous cells anywhere to be found. Great!
+
+I'm also pleased to report that my hand and wrist are almost back to normal. I've been doing slow stretches every morning and night, and whenever there's a period of time between the action. It has no doubt helped. 
+
+So what have we learned here? Perhaps only have surgery if it is a nessecity, and make sure your viens are ready to be found and poked so the nurses don't have to go a diggin.
