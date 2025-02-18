@@ -5,7 +5,6 @@ date: 2024-10-21
 description: "Active whole house cooling with just a box fan"
 tags: ["heat", "cooling", "whole house", "box fan", "efficient"]
 draft: false
-# audio: /heat-battery.mp3
 ---
 
 Listen to this article:
