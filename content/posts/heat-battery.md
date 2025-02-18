@@ -5,7 +5,7 @@ date: 2024-10-21
 description: "Active whole house cooling with just a box fan"
 tags: ["heat", "cooling", "whole house", "box fan", "efficient"]
 draft: false
-audio: audio/heat-battery.mp3
+audio: static/audio/heat-battery.mp3
 ---
 
 This time of year it is cool in the mornings and warm in the afternoon. For example, today we are slated to have a high of 80F, and it was 39F this morning. Pretty high temp swing. To leverage this, I've started pulling in cool air in the mornings. So much so that the kids complain about the cold.
