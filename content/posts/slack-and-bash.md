@@ -2,9 +2,12 @@
 author: Mike
 title: "Bash plus Slack"
 date: 2019-12-27
-tags: ["slack","bash"]
+tags: ["slack", "bash"]
 draft: false
 ---
+
+Listen to this article:
+{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
 
 Let’s write a script to take and upload pictures<!--more-->
 
@@ -25,6 +28,7 @@ curl https://slack.com/api/users.setPhoto -F “image=@/home/mike/image.jpeg” 
 # remove image
 rm /home/mike/image.jpeg
 ```
+
 ## Walkthrough
 
 - `#!/bin/bash` This is called the shebang, and it just tells the computer where the program bash lives. Any line that starts with a # means that is it a comment

@@ -7,6 +7,9 @@ tags: ["surgery"]
 draft: false
 ---
 
+Listen to this article:
+{{< audio "/audio/surgery.mp3" >}}<br>
+
 Two days ago, I went in to the hospital to have a couple small skin tissues excised. You know, just your typical Thursday. Today I'm waiting for the results. It's a great way to spend your birthday.
 
 It snowed about 5 inches yesterday and the kids have been loving it. Playing outside for hours at a time, and coming in completely cold and exhausted. I've made them Mexican hot chocolate (Nestle Authentic Mexican Hot Chocolate, thank you very much). Kimber whipped up a batch of snickerdoodle cookies. It's been grand!
@@ -17,13 +20,13 @@ When I was getting my IV put in at the hospital, the nurse went from left arm to
 
 There is also a bit of bruising on the back of my wrist. I stopped short, mid-sentence to say how much the needle hurt as it went in. She said, "Just hold still, try to relax." My right hand _had_ tensed up from the pain. I relaxed it and took some deep breaths.
 
-So what's the big deal? I _probably_ wouldn't be concerned if I hadn't had passed out in the surgery prep room. Yeah, for the first time in my whole life (41 years) I passed out when there was a needle stuck in me. 
+So what's the big deal? I _probably_ wouldn't be concerned if I hadn't had passed out in the surgery prep room. Yeah, for the first time in my whole life (41 years) I passed out when there was a needle stuck in me.
 
 I didn't say anything at the time because I thought that they were pushing sleepytime drugs in the IV, so I accepted the cold sensation creeping up my right arm and promptly fell asleep. I dreamed.
 
 A moment later (20 seconds later according to the nurse that was doing my vitals) I came to. "Mike! Mike! Mike!", I heard as I came back to reality.
 
-So... now I'm more worried about my pain in my hand then the pain from where the surgeon cut in and took tissue for biopsy. Not a wonderful place to be in. I thought I'd write it down here as an account while it was still fresh in my mind. 
+So... now I'm more worried about my pain in my hand then the pain from where the surgeon cut in and took tissue for biopsy. Not a wonderful place to be in. I thought I'd write it down here as an account while it was still fresh in my mind.
 
 I'm going to put the link for the pictures here from my google photos for posterity.
 
@@ -32,6 +35,6 @@ I'm going to put the link for the pictures here from my google photos for poster
 Update Feb 17th, 2024:
 I'm writing here to inform you of good news on all fronts! Firstly and most importantly, the pathology on the 2 tissue removals came back clean. There was no irregularity or cancerous cells anywhere to be found. Great!
 
-I'm also pleased to report that my hand and wrist are almost back to normal. I've been doing slow stretches every morning and night, and whenever there's a period of time between the action. It has no doubt helped. 
+I'm also pleased to report that my hand and wrist are almost back to normal. I've been doing slow stretches every morning and night, and whenever there's a period of time between the action. It has no doubt helped.
 
 So what have we learned here? Perhaps only have surgery if it is a nessecity, and make sure your viens are ready to be found and poked so the nurses don't have to go a diggin.

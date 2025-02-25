@@ -6,6 +6,9 @@ draft: false
 tags: ["pushups"]
 ---
 
+Listen to this article:
+{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
+
 So, I recently hit the big 4-0, and let me tell you, it feels like the universe decided to slap me with a big “Welcome to Old Age!” sticker. In an attempt to shake off the cobwebs, I thought, “Why not do some pushups and get back in shape?” Of course, I was promptly reminded that “round” is indeed a shape.
 
 That burst of motivation quickly met the cold, hard truth of physics. After years of cultivating my “mass,” I had to face the music—14 pushups was all I could muster. And this was before my morning coffee! As I grunted through the final rep on my bathroom floor, I thought, “No biggie. I’ll just do fewer reps throughout the day until I hit 50.”

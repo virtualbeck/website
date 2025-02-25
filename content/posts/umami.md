@@ -6,6 +6,9 @@ tags: ["umami", "tracking", "page views"]
 draft: false
 ---
 
+Listen to this article:
+{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
+
 Recently, I saw on a blog ([this one](https://garry.net/posts)) a page view counter. Having seen these on webpages for over 30 years now, I was struck that I had no idea how they worked. So like any other curiosity, I started searching around.
 
 The first thought I had was that this was some sort of script that went and fetched a value from a database on page load, and either did an increment then, or afterwards. Probably afterwards, so as to keep the webpage snappy.

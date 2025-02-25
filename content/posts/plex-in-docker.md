@@ -2,9 +2,12 @@
 author: Mike
 title: "Plex running in docker"
 date: 2019-03-10
-tags: ["plex","bash","docker"]
+tags: ["plex", "bash", "docker"]
 draft: false
 ---
+
+Listen to this article:
+{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
 
 Let’s write a script to run Plex in docker<!--more-->
 

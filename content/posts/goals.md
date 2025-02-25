@@ -6,16 +6,21 @@ description: "Gotta write these down somewhere"
 tags: ["goals"]
 draft: false
 ---
+
+Listen to this article:
+{{< audio "/audio/goals.mp3" >}}<br>
+
 I've heard it said that if you have something that you'd like done, it's not a goal until it is <u>written down</u>. To that point, I submit to you a list of goals I'd like to _at least_ look into this year.
- 
+
 In not partucular order:
-  - water filtration, how it works, and making my own custom water filter
-  - chiptune/lofi album, possible to monitize, but more than likely just to do for fun
-  - write an app based on the [pinterest image extractor](../pinterest) idea I have on the blog
-  - some device I can hang on the wall that is an one touch incrementor, maybe 3d print
-  - auto tracking/displaying daily steps walked, first locally, later on the blog
-  - LLM style-guide, downloads a website's content, writes content based on that style
-  - design/build a planterbox w/ removable greenhouse top
+
+- water filtration, how it works, and making my own custom water filter
+- chiptune/lofi album, possible to monitize, but more than likely just to do for fun
+- write an app based on the [pinterest image extractor](../pinterest) idea I have on the blog
+- some device I can hang on the wall that is an one touch incrementor, maybe 3d print
+- auto tracking/displaying daily steps walked, first locally, later on the blog
+- LLM style-guide, downloads a website's content, writes content based on that style
+- design/build a planterbox w/ removable greenhouse top
 
 These are not SMART goals, as they are poorly defined, not time bound, etc etc etc...
 

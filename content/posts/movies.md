@@ -6,6 +6,9 @@ description: "Are movies worth it?"
 draft: false
 ---
 
+Listen to this article:
+{{< audio "/audio/movies.mp3" >}}<br>
+
 Our family went to the movies today. I have some thoughts.
 
 Ease of entry: 10/10. We bought tickets online and just scanned a QR code and it printed out our tickets. 1 person took our tickets and tore them. Easy peasy.

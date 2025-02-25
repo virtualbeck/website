@@ -25,14 +25,22 @@
       <link>https://blog.virtualbeck.com/posts/slack-and-bash/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/slack-and-bash/</guid>
-      <description>&lt;p&gt;Let’s write a script to take and upload pictures&lt;/p&gt;</description>
+      <description>&lt;p&gt;Listen to this article:
+&lt;audio class=&#34;custom-audio&#34; controls preload=&#34;none&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;source src=&#34;https://blog.virtualbeck.com/audio/TITLE_PLACEHOLDER.mp3&#34;&gt;
+&lt;/audio&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Let’s write a script to take and upload pictures&lt;/p&gt;</description>
     </item>
     <item>
       <title>Plex running in docker</title>
       <link>https://blog.virtualbeck.com/posts/plex-in-docker/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://blog.virtualbeck.com/posts/plex-in-docker/</guid>
-      <description>&lt;p&gt;Let’s write a script to run Plex in docker&lt;/p&gt;</description>
+      <description>&lt;p&gt;Listen to this article:
+&lt;audio class=&#34;custom-audio&#34; controls preload=&#34;none&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;source src=&#34;https://blog.virtualbeck.com/audio/TITLE_PLACEHOLDER.mp3&#34;&gt;
+&lt;/audio&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Let’s write a script to run Plex in docker&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

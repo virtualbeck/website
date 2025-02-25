@@ -7,6 +7,9 @@ tags: ["halloween"]
 draft: false
 ---
 
+Listen to this article:
+{{< audio "/audio/halloween.mp3" >}}<br>
+
 Halloween: A Night of Sugar, Sleep, and Sogginess.
 
 I'm still buzzing from our family's Halloween adventure last night. We hit up the neighborhood with the most epic trick-or-treating grounds – a sea of cul-de-sacs that seemed to stretch on forever. The little monsters (aka kids) were determined to collect as much candy as humanly possible, and I've gotta give 'em credit: they didn't let a little rain dampen their spirits.

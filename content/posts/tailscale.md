@@ -3,9 +3,22 @@ author: Mike
 title: tailscale and code-server
 date: 2025-02-12
 description: "Running a local service as a sidecar container through tailscale"
-tags: ["tailscale","sidecar","containers","docker","ssh","tls","linux","code-server"]
+tags:
+  [
+    "tailscale",
+    "sidecar",
+    "containers",
+    "docker",
+    "ssh",
+    "tls",
+    "linux",
+    "code-server",
+  ]
 draft: false
 ---
+
+Listen to this article:
+{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
 
 A lot of what I'm going to say here is a reguritation of [this great post](https://tailscale.com/blog/docker-tailscale-guide) from tailscale. If you want to just skip to that document, I will not hold it against you. If you'd like to see how I've implemented a tailscale container with a code-server sidecar container and serve it over my tailnet, then read on!
 

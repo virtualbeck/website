@@ -6,6 +6,9 @@ draft: false
 tags: ["weight-loss","BMI","feelin good"]
 ---
 
+Listen to this article:
+{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
+
 My friends and I are having a challenge between the three of us to lose weight. We all need to drop 20 lbs in 2 months. If you don't hit the minus 20 pound mark by Oct 24th, you have to pay $100 per pound you missed. The max one person will pay is $2000. Split to 2 winners if needed. 
 
 If we all lose 20 pounds, then we are all fat losers! Which makes us winners.

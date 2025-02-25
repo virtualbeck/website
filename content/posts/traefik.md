@@ -6,6 +6,9 @@ draft: false
 tags: ["traefik"]
 ---
 
+Listen to this article:
+{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
+
 Maybe this will help you!
 <!--more-->
 

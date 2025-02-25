@@ -3,9 +3,12 @@ author: Mike
 title: pinterest
 date: 2025-01-21
 description: "Grab an image from pinterest without any fuss"
-tags: ["pinterest","images","linux","bash"]
+tags: ["pinterest", "images", "linux", "bash"]
 draft: false
 ---
+
+Listen to this article:
+{{< audio "/audio/pinterest.mp3" >}}<br>
 
 Ever find the perfect picture on Pinterest just to dash you hopes and/or dreams when you go to save it? Yeah, me too. I've written a bash function that will give you a url to the source image, so you can click on that and do what you want with it.
 

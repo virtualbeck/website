@@ -23,4 +23,4 @@ curl -X 'POST' \
     "speed": 1,
     "stream": true,
     "return_download_link": false
-  }' > $FILENAME.mp3
+  }' > ~/docker-data/virtualbeck_blog/theme_papermod/static/audio/$FILENAME.mp3
