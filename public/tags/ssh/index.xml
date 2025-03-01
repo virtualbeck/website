@@ -15,9 +15,9 @@
     <atom:link href="https://blog.virtualbeck.com/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tailscale and code-server</title>
-      <link>https://blog.virtualbeck.com/posts/tailscale/</link>
+      <link>https://blog.virtualbeck.com/posts/tailscale-and-coder-server/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://blog.virtualbeck.com/posts/tailscale/</guid>
+      <guid>https://blog.virtualbeck.com/posts/tailscale-and-coder-server/</guid>
       <description>Running a local service as a sidecar container through tailscale</description>
     </item>
   </channel>
