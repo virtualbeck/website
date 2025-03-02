@@ -26,7 +26,9 @@ Tailscale is an excellent implementation of [wireguard](https://www.wireguard.co
 
 [Code-server](https://github.com/coder/code-server) is [vscode](https://github.com/Microsoft/vscode), but in the browser. It is essentailly running a code editor on a server somewhere. Think of it as your dev environment, accessible anywhere. This makes the choice of your company's issued workstation and OS much more trivial, as you will be coding in an IDE that you know and love, and it can be customized and saved to your liking. I'm running this locally, but you could easily run it on a cloud provider and have similar results.
 
-Ok, so how do you set this up? It's pretty simple. Have a look at the 2 files needed below. The first is the docker-compose.yml
+Ok, so how do you set this up? It's pretty simple. Have a look at the 2 files needed below. The first is the docker-compose.yml. 
+
+ - Side note: There is one additional file needed for this, which it the `.env` file. It sits right beside the docker-compose.yml. I have one that has one line entry: `SERVICE_NAME=code-server`. I'm not enchanted by how docker compose files handle variable interpolation (service names and volumes apperently can't be interpolated??), but this is a bit of a time saver rhebric. 
 
 ```yml
 services:
@@ -81,7 +83,7 @@ The tailscale config file (listed above in docker-compose.yml as `ts-code-server
 ```
 
 Finally, in your tailscale admin dashboard, make sure you have `MagicDNS` and `HTTPS Certificates` both _ENABLED_. You can obviosly add more volumes to your sidecar docker container if you want more local filesystems mapped to your container, but this should get you going. That's it! You have your own code-server running on you docker container, which it accessable from anywhere, when you are on your tailnet.
-<br>
+
 If you feel spicy and want to open it (or another container) to the whole world, set the last line in you tailscale config AllowFunnel --> true. As a side note here, you also have to open up your ACL for funnel, [as per the docs](https://tailscale.com/kb/1223/funnel#funnel-node-attribute). Here's the snippet in my ACLs that did the trick:
 
 ```json
