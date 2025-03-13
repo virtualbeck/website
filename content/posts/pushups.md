@@ -7,7 +7,7 @@ tags: ["pushups"]
 ---
 
 Listen to this article:
-{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
+{{< audio "/audio/pushups.mp3" >}}<br>
 
 So, I recently hit the big 4-0, and let me tell you, it feels like the universe decided to slap me with a big “Welcome to Old Age!” sticker. In an attempt to shake off the cobwebs, I thought, “Why not do some pushups and get back in shape?” Of course, I was promptly reminded that “round” is indeed a shape.
 
