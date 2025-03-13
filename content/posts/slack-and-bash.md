@@ -7,7 +7,7 @@ draft: false
 ---
 
 Listen to this article:
-{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
+{{< audio "/audio/slack-and-bash.mp3" >}}<br>
 
 Let’s write a script to take and upload pictures<!--more-->
 
