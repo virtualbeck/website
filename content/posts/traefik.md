@@ -7,9 +7,10 @@ tags: ["traefik"]
 ---
 
 Listen to this article:
-{{< audio "/audio/TITLE_PLACEHOLDER.mp3" >}}<br>
+{{< audio "/audio/traefik.mp3" >}}<br>
 
 Maybe this will help you!
+
 <!--more-->
 
 I wanted to take some time to document the work I've finally marked off the TODO list; setting up [traefik](https://github.com/traefik/traefik) and various services therein. Perhaps this will help you, but really it's just my attempt get the info posted here so I can reference it later if needed, and move on.
@@ -17,17 +18,16 @@ I wanted to take some time to document the work I've finally marked off the TODO
 What is traefik? `Traefik (pronounced traffic) is a modern HTTP reverse proxy and load balancer that makes deploying microservices easy.` <-- ripped from github page. I'm using it to host my services (including this page you're reading now). Some are public, some are private. Some are public behind an auth mechanism. What follows is essentially a dump of my docker-compse.yaml with some secrets/personal obfuscation, with some inline comments to describe what is going on.
 
 ```yaml
-version: '3.8'
+version: "3.8"
 services:
-
   traefik:
     image: traefik
     # Enables the web UI and tells Traefik to listen to docker
     container_name: "traefik"
     command:
-      - '--api=true'
-      - '--api.dashboard=true'
-      - '--api.insecure=true'
+      - "--api=true"
+      - "--api.dashboard=true"
+      - "--api.insecure=true"
       - "--providers.docker=true"
       - "--providers.docker.exposedbydefault=false"
       - "--providers.file.directory=/config/"
@@ -50,13 +50,13 @@ services:
       - "./logs/:/logs/"
       - "./config/:/config/"
     labels:
-      - 'traefik.enable=true'
-      - 'traefik.http.routers.api.rule=Host(`traefik.virtualbeck.com`)'
-      - 'traefik.http.routers.api.entrypoints=websecure'
-      - 'traefik.http.routers.api.service=api@internal'
-      - 'traefik.http.routers.api.tls=true'
-      - 'traefik.http.routers.api.tls.certresolver=myresolver'
-      - 'traefik.http.routers.api.middlewares=authelia@docker'
+      - "traefik.enable=true"
+      - "traefik.http.routers.api.rule=Host(`traefik.virtualbeck.com`)"
+      - "traefik.http.routers.api.entrypoints=websecure"
+      - "traefik.http.routers.api.service=api@internal"
+      - "traefik.http.routers.api.tls=true"
+      - "traefik.http.routers.api.tls.certresolver=myresolver"
+      - "traefik.http.routers.api.middlewares=authelia@docker"
 
     depends_on:
       - "authelia"
@@ -76,9 +76,9 @@ services:
       - "traefik.http.routers.authelia.entrypoints=websecure"
       - "traefik.http.routers.authelia.tls.certresolver=myresolver"
       - "traefik.http.routers.authelia.tls=true"
-      - 'traefik.http.middlewares.authelia.forwardAuth.address=http://authelia:9091/api/verify?rd=https://login.virtualbeck.com/'
-      - 'traefik.http.middlewares.authelia.forwardAuth.trustForwardHeader=true'
-      - 'traefik.http.middlewares.authelia.forwardAuth.authResponseHeaders=Remote-User,Remote-Groups,Remote-Email,Remote-Name'
+      - "traefik.http.middlewares.authelia.forwardAuth.address=http://authelia:9091/api/verify?rd=https://login.virtualbeck.com/"
+      - "traefik.http.middlewares.authelia.forwardAuth.trustForwardHeader=true"
+      - "traefik.http.middlewares.authelia.forwardAuth.authResponseHeaders=Remote-User,Remote-Groups,Remote-Email,Remote-Name"
 
   virtualbeck_nginx:
     # This blog, how recursive!
@@ -151,8 +151,8 @@ services:
     ports:
       - 3000:8080
     environment:
-      - 'OLLAMA_BASE_URL=http://192.168.1.65:11434' #nixos
-      - 'DEFAULT_MODELS=llama3'
+      - "OLLAMA_BASE_URL=http://192.168.1.65:11434" #nixos
+      - "DEFAULT_MODELS=llama3"
     extra_hosts:
       - host.docker.internal:host-gateway
     restart: unless-stopped
