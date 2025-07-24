@@ -1,6 +1,6 @@
 ---
 author: Mike
-title: an entire site coded in url as base64
+title: tinysite
 date: 2025-07-24
 draft: false
 tags: ["base64", "url", "tinysite"]
