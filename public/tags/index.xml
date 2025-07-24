@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo -- 0.143.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Base64</title>
+      <link>https://blog.virtualbeck.com/tags/base64/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/tags/base64/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tinysite</title>
+      <link>https://blog.virtualbeck.com/tags/tinysite/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/tags/tinysite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Url</title>
+      <link>https://blog.virtualbeck.com/tags/url/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/tags/url/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Code-Server</title>
       <link>https://blog.virtualbeck.com/tags/code-server/</link>

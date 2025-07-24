@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.virtualbeck.com/posts/tinysite/</loc>
+    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/base64/</loc>
+    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/posts/</loc>
+    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/</loc>
+    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/tinysite/</loc>
+    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/url/</loc>
+    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/</loc>
+    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://blog.virtualbeck.com/tags/code-server/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,16 +35,10 @@
     <loc>https://blog.virtualbeck.com/tags/linux/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.virtualbeck.com/posts/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://blog.virtualbeck.com/tags/sidecar/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/ssh/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/tags/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/tailscale/</loc>
@@ -33,9 +48,6 @@
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/tls/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/page-views/</loc>
