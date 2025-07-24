@@ -1,6 +1,5 @@
----
-title: "Resume"
-layout: "resume"
-url: "/resume/"
-draft: true
----
+# ---
+# title: "Resume"
+# layout: "resume"
+# url: "/resume/"
+# ---
