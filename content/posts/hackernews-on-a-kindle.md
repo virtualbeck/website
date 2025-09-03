@@ -6,7 +6,7 @@ draft: false
 tags: ["hacker news", "kindle"]
 ---
 
-Have you ever wanted to get a digest of the "best" hackernews stories on your kindle? Well, look no further! 
+Have you ever wanted to get a digest of the "best" hackernews stories on your kindle? Well, look no further!
 I've cobbled together a few technologies to create and host a repo of "books" in which each book is a day of the best links from hackernews.
 Each chapter is an article. I had AI write most of this. If you like to contribute, great! The repo will be on github shortly.
 
