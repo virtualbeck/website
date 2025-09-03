@@ -2,13 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.virtualbeck.com/tags/base64/</loc>
-    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+    <loc>https://blog.virtualbeck.com/tags/hacker-news/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/posts/hackernews-on-a-kindle/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/kindle/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/posts/</loc>
-    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/</loc>
+    <lastmod>2025-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.virtualbeck.com/tags/base64/</loc>
     <lastmod>2025-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/posts/tinysite/</loc>
@@ -18,9 +30,6 @@
     <lastmod>2025-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/url/</loc>
-    <lastmod>2025-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.virtualbeck.com/</loc>
     <lastmod>2025-07-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.virtualbeck.com/tags/code-server/</loc>

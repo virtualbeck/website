@@ -1,10 +1,18 @@
 ---
 author: Mike
 title: hacker news on a kindle
-date: 2025-07-06
-draft: true
-tags: ["asahi", "linux", "llama3.2", "LLM", "apple", "silicon"]
+date: 2025-09-02
+draft: false
+tags: ["hacker news", "kindle"]
 ---
+
+Have you ever wanted to get a digest of the "best" hackernews stories on your kindle? Well, look no further! 
+I've cobbled together a few technologies to create and host a repo of "books" in which each book is a day of the best links from hackernews.
+Each chapter is an article. I had AI write most of this. If you like to contribute, great! The repo will be on github shortly.
+
+TODO: Publish code.
+
+In the meantime - here is the jist of the code that builds the epub.
 
 ```
 #!/bin/bash
@@ -96,7 +104,7 @@ done
 echo "]" >> "$TMP_FILE"
 mv "$TMP_FILE" "$OUTPUT_FILE"
 
-echo "✅ Saved final output to $OUTPUT_FILE"
+echo "Saved final output to $OUTPUT_FILE"
 
 ### Temporary working directory
 WORKDIR=$(mktemp -d)
@@ -106,7 +114,7 @@ CHAPTERS=()
 TODAY=$(date +%F)
 EPUB_FILE="hn-digest-$TODAY.epub"
 
-echo "📚 Building EPUB: $EPUB_FILE"
+echo "Building EPUB: $EPUB_FILE"
 
 # Read array of JSON objects safely
 mapfile -t articles < <(jq -c '.[]' "$OUTPUT_FILE")
@@ -134,7 +142,7 @@ for article in "${articles[@]}"; do
         echo "$content"
     } > "$chapter_file"
 
-    echo "✅ Wrote chapter: $chapter_file"
+    echo "Wrote chapter: $chapter_file"
     index=$((index + 1))
 done
 
@@ -143,16 +151,16 @@ if [ ${#CHAPTERS[@]} -gt 0 ]; then
     pandoc "${CHAPTERS[@]}" -o "$EPUB_FILE" \
         --metadata title="Hacker News Digest - $TODAY" \
         --toc --toc-depth=2
-    echo "✅ EPUB created: $EPUB_FILE"
+    echo "EPUB created: $EPUB_FILE"
     mv $EPUB_FILE ~/docker-data/books/ingest/$EPUB_FILE
     if [ "echo $?" == 0 ]; then
         rm $EPUB_FILE
     else
-        echo "Filetransfer to thermaltake failed. Please check and transfer manually if needed."
+        echo "Filetransfer to books folder failed. Please check and transfer manually if needed."
     fi
 
 else
-    echo "⚠️ No valid chapters found — EPUB not created."
+    echo "No valid chapters found — EPUB not created."
 fi
 
 # stop readability-js-server

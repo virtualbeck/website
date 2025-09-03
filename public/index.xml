@@ -11,8 +11,17 @@
     </image>
     <generator>Hugo -- 0.143.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.virtualbeck.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hacker news on a kindle</title>
+      <link>https://blog.virtualbeck.com/posts/hackernews-on-a-kindle/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://blog.virtualbeck.com/posts/hackernews-on-a-kindle/</guid>
+      <description>&lt;p&gt;Have you ever wanted to get a digest of the &amp;ldquo;best&amp;rdquo; hackernews stories on your kindle? Well, look no further!
+I&amp;rsquo;ve cobbled together a few technologies to create and host a repo of &amp;ldquo;books&amp;rdquo; in which each book is a day of the best links from hackernews.
+Each chapter is an article. I had AI write most of this. If you like to contribute, great! The repo will be on github shortly.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>tinysite</title>
       <link>https://blog.virtualbeck.com/posts/tinysite/</link>
