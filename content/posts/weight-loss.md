@@ -39,3 +39,5 @@ Oct 16th update: I'm doing great. Today I'm at 177.9, which is almost 14 lbs dow
 Nov 2nd update: The contest ended on Oct 24th, and I lost a total of 17 lbs! The winner wound up losing 18, so I had to hand over $50, and it was worth it. Today is Nov 2nd, and I weigh exactly the same amount as 10 days ago. Hopefully 174 lbs is the new normal for me. I've been averaging 9000 steps a day and eating around 1800 calories. Not difficult. Weather has been great for walking and we also have a small walking treadmill for bad weather days.
 
 Feb 17th 2025 update: I've kept my weight off, and lost a bit more too. I've hovering around 169 now, which is about 11% reduction in body weight. I'm feeling good, and continuing to walk as much as I can. 
+
+Sept 3rd 2025 update: Still at 171. Oh yeah baby.

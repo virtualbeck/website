@@ -113,14 +113,10 @@ menu:
       name: Sudoku
       url: https://sudoku.virtualbeck.com/
       weight: 50
-    - identifier: resume
-      name: resume
-      url: /resume/
-      weight: 60
     - identifier: ai_slop
       name: ai_slop
       url: /ai_slop/
-      weight: 70
+      weight: 60
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
